@@ -20,6 +20,7 @@ import plotly.graph_objects as go
 import os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
+
 #%% Load data
 
 ergm = pd.read_csv('ergm_results.csv')
@@ -64,7 +65,7 @@ for node in G.nodes():
 
 
 # Encourage fill screen
-ui.page_opts(title="Cosponsoring relationships in the Senate", fillable=True)
+ui.page_opts(title="Cosponsoring relationships in the Senate", fillable=False)
 
 ##### Sidebar #####
 
