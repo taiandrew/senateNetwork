@@ -34,16 +34,16 @@ ergm.columns = ['_'.join(map(str, col)).strip() for col in ergm.columns.values]
 ergm = ergm.reset_index()
 
 # Rename columns
-ergm.rename(columns = {'estimate_absdiff.sum.nominate_dim1': 'absdiff_dw',
-                       'estimate_nodematch.sum.party': 'same_party',
+ergm.rename(columns = {'estimate_absdiff.sum.nominate_dim1': 'Ideological difference',
+                       'estimate_nodematch.sum.party': 'Same party',
                        'std.error_absdiff.sum.nominate_dim1': 'absdiff_dw_se',
                        'std.error_nodematch.sum.party': 'same_party_se'},
             inplace=True)
 ergm['year'] = ergm['congress'] * 2 + 1787
 
 # errors
-ergm['absdiff_dw_95'] = 1.96*ergm['absdiff_dw_se']
-ergm['same_party_95'] = 1.96*ergm['absdiff_dw_95']
+ergm['Ideological difference_95'] = 1.96*ergm['absdiff_dw_se']
+ergm['Same party_95'] = 1.96*ergm['absdiff_dw_se']
 
 
 
@@ -64,7 +64,7 @@ for node in G.nodes():
 
 
 # Encourage fill screen
-ui.page_opts(title="Senate networks dashboard", fillable=True)
+ui.page_opts(title="Cosponsoring relationships in the Senate", fillable=True)
 
 ##### Sidebar #####
 
@@ -72,7 +72,7 @@ with ui.sidebar():
     # Variable selecter
     ui.input_selectize(
         "var", "Select variable",
-        ["same_party", "absdiff_dw"],
+        ["Ideological difference", "Same party"],
     )
     # Input for custom x-axis range
     ui.input_slider(
@@ -87,7 +87,7 @@ with ui.sidebar():
 
 # Line plots of estimates
 with ui.card(full_screen=True):
-    ui.card_header("ERGM point estimates")
+    ui.card_header("Importance of factors in cosponsoring relationsips over time")
     @render_plotly
     def hist():
         # Filter data based on selected year range
@@ -109,6 +109,7 @@ with ui.card(full_screen=True):
         node_y = [G.nodes[node]['pos'][1] for node in G.nodes()]
 
         # Create edge traces
+        # Set edge widths based on 'weight' attribute if it exists, otherwise default to 1
         edge_x = []
         edge_y = []
         for edge in G.edges():
@@ -123,7 +124,7 @@ with ui.card(full_screen=True):
             hoverinfo='none',
             mode='lines'
         )
-
+        
         # Create node trace
         node_trace = go.Scatter(
             x=node_x, y=node_y,
@@ -131,13 +132,22 @@ with ui.card(full_screen=True):
             marker=dict(
             size=10,
             color='blue',
-            line_width=2
+            line_width=0.5
             ),
             text=list(G.nodes()),
             hoverinfo='text'
         )
+        
         # Add labels to nodes
         node_trace.text = [G.nodes[node].get('name', node) for node in G.nodes()]
+        
+        # Set node sizes based on 'size' attribute if it exists, otherwise default to 10
+        node_sizes = [G.nodes[node].get('size', 10) for node in G.nodes()]
+        node_trace.marker.size = node_sizes
+        
+        # Set node colors based on 'color' attribute if it exists, otherwise default to 'blue'
+        node_colors = [G.nodes[node].get('color', 'blue') for node in G.nodes()]
+        node_trace.marker.color = node_colors
         
         # Create figure
         fig = go.Figure(data=[edge_trace, node_trace],
@@ -149,3 +159,8 @@ with ui.card(full_screen=True):
                     yaxis=dict(showgrid=False, zeroline=False)
                 ))
         return fig
+    
+    ui.card_footer("Displays cosponsoring relationships in the Senate. Size of Senator is weighted by PageRank centrality, a measure of importance in the network." +
+                   "Color of Senator is based on party affiliation. Only links with 10+ cosponsored bills are shown.")
+
+

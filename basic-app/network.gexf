@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-04-13">
+  <meta lastmodifieddate="2025-04-15">
     <creator>NetworkX 3.2.1</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -15,8 +15,8 @@
       <node id="660" label="660">
         <attvalues>
           <attvalue for="0" value="0.00507120610307368" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="51.7120610307368" />
+          <attvalue for="1" value="L. BENTSEN" />
+          <attvalue for="2" value="16.21361830922104" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -24,8 +24,8 @@
       <node id="1252" label="1252">
         <attvalues>
           <attvalue for="0" value="0.001757793704623526" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.57793704623526" />
+          <attvalue for="1" value="Q. BURDICK" />
+          <attvalue for="2" value="6.273381113870578" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -33,8 +33,8 @@
       <node id="1366" label="1366">
         <attvalues>
           <attvalue for="0" value="0.0021831350276291955" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.831350276291953" />
+          <attvalue for="1" value="R. BYRD" />
+          <attvalue for="2" value="7.549405082887587" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -42,8 +42,8 @@
       <node id="1482" label="1482">
         <attvalues>
           <attvalue for="0" value="0.002743187834378452" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="28.43187834378452" />
+          <attvalue for="1" value="H. CANNON" />
+          <attvalue for="2" value="9.229563503135356" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -51,8 +51,8 @@
       <node id="1721" label="1721">
         <attvalues>
           <attvalue for="0" value="0.0024939218158878404" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.939218158878404" />
+          <attvalue for="1" value="F. CHURCH" />
+          <attvalue for="2" value="8.481765447663522" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -60,8 +60,8 @@
       <node id="2822" label="2822">
         <attvalues>
           <attvalue for="0" value="0.0009481206525327149" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.48120652532715" />
+          <attvalue for="1" value="J. EASTLAND" />
+          <attvalue for="2" value="3.844361957598145" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -69,8 +69,8 @@
       <node id="3658" label="3658">
         <attvalues>
           <attvalue for="0" value="0.0015973345805922617" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.97334580592262" />
+          <attvalue for="1" value="B. GOLDWATER" />
+          <attvalue for="2" value="5.792003741776785" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -78,8 +78,8 @@
       <node id="4154" label="4154">
         <attvalues>
           <attvalue for="0" value="0.0017428608139515233" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.428608139515234" />
+          <attvalue for="1" value="R. HARTKE" />
+          <attvalue for="2" value="6.22858244185457" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -87,8 +87,8 @@
       <node id="4728" label="4728">
         <attvalues>
           <attvalue for="0" value="0.0025123304332420517" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.123304332420517" />
+          <attvalue for="1" value="H. HUMPHREY" />
+          <attvalue for="2" value="8.536991299726155" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -97,7 +97,7 @@
         <attvalues>
           <attvalue for="0" value="0.00954460880154957" />
           <attvalue for="1" value="D. INOUYE" />
-          <attvalue for="2" value="96.44608801549569" />
+          <attvalue for="2" value="29.63382640464871" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -105,8 +105,8 @@
       <node id="4898" label="4898">
         <attvalues>
           <attvalue for="0" value="0.0029536700352157164" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="30.536700352157165" />
+          <attvalue for="1" value="J. JAVITS" />
+          <attvalue for="2" value="9.86101010564715" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -114,8 +114,8 @@
       <node id="5767" label="5767">
         <attvalues>
           <attvalue for="0" value="0.0017779270788849007" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.779270788849008" />
+          <attvalue for="1" value="R. LONG" />
+          <attvalue for="2" value="6.333781236654702" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -123,8 +123,8 @@
       <node id="5913" label="5913">
         <attvalues>
           <attvalue for="0" value="0.003890522716082507" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="39.90522716082507" />
+          <attvalue for="1" value="W. MAGNUSON" />
+          <attvalue for="2" value="12.671568148247522" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -132,8 +132,8 @@
       <node id="6256" label="6256">
         <attvalues>
           <attvalue for="0" value="0.0021243097379665477" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.24309737966548" />
+          <attvalue for="1" value="G. McGOVERN" />
+          <attvalue for="2" value="7.372929213899643" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -141,8 +141,8 @@
       <node id="6442" label="6442">
         <attvalues>
           <attvalue for="0" value="0.0014486829598177652" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.486829598177652" />
+          <attvalue for="1" value="L. METCALF" />
+          <attvalue for="2" value="5.346048879453296" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -150,8 +150,8 @@
       <node id="7638" label="7638">
         <attvalues>
           <attvalue for="0" value="0.0031513910287365595" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="32.51391028736559" />
+          <attvalue for="1" value="W. PROXMIRE" />
+          <attvalue for="2" value="10.454173086209678" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -159,8 +159,8 @@
       <node id="7722" label="7722">
         <attvalues>
           <attvalue for="0" value="0.0020710971978656232" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.710971978656232" />
+          <attvalue for="1" value="J. RANDOLPH" />
+          <attvalue for="2" value="7.213291593596869" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -168,8 +168,8 @@
       <node id="7847" label="7847">
         <attvalues>
           <attvalue for="0" value="0.0016557755416739522" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.55775541673952" />
+          <attvalue for="1" value="A. RIBICOFF" />
+          <attvalue for="2" value="5.967326625021856" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -177,8 +177,8 @@
       <node id="8301" label="8301">
         <attvalues>
           <attvalue for="0" value="0.0014800706194150704" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.800706194150704" />
+          <attvalue for="1" value="H. SCOTT" />
+          <attvalue for="2" value="5.4402118582452115" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -186,8 +186,8 @@
       <node id="8764" label="8764">
         <attvalues>
           <attvalue for="0" value="0.0009102527916177124" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.102527916177124" />
+          <attvalue for="1" value="J. SPARKMAN" />
+          <attvalue for="2" value="3.730758374853137" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -195,8 +195,8 @@
       <node id="9141" label="9141">
         <attvalues>
           <attvalue for="0" value="0.00041429905238218304" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.1429905238218305" />
+          <attvalue for="1" value="W. SYMINGTON" />
+          <attvalue for="2" value="2.2428971571465492" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -204,8 +204,8 @@
       <node id="9174" label="9174">
         <attvalues>
           <attvalue for="0" value="0.0014945166918742356" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.945166918742355" />
+          <attvalue for="1" value="H. TALMADGE" />
+          <attvalue for="2" value="5.4835500756227065" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -214,7 +214,7 @@
         <attvalues>
           <attvalue for="0" value="0.00787494975168995" />
           <attvalue for="1" value="J. THURMOND" />
-          <attvalue for="2" value="79.74949751689951" />
+          <attvalue for="2" value="24.62484925506985" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -222,8 +222,8 @@
       <node id="10147" label="10147">
         <attvalues>
           <attvalue for="0" value="0.002577737289839103" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.77737289839103" />
+          <attvalue for="1" value="H. WILLIAMS" />
+          <attvalue for="2" value="8.733211869517309" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -232,7 +232,7 @@
         <attvalues>
           <attvalue for="0" value="0.007829342359580748" />
           <attvalue for="1" value="R. DOLE" />
-          <attvalue for="2" value="79.29342359580748" />
+          <attvalue for="2" value="24.488027078742245" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -240,8 +240,8 @@
       <node id="10535" label="10535">
         <attvalues>
           <attvalue for="0" value="0.004221753391827419" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="43.21753391827419" />
+          <attvalue for="1" value="C. MATHIAS" />
+          <attvalue for="2" value="13.665260175482258" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -249,8 +249,8 @@
       <node id="10557" label="10557">
         <attvalues>
           <attvalue for="0" value="0.0013313974220307615" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.313974220307614" />
+          <attvalue for="1" value="R. SCHWEIKER" />
+          <attvalue for="2" value="4.994192266092284" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -258,8 +258,8 @@
       <node id="10562" label="10562">
         <attvalues>
           <attvalue for="0" value="0.0023850801128880573" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.850801128880573" />
+          <attvalue for="1" value="R. STAFFORD" />
+          <attvalue for="2" value="8.155240338664171" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -267,8 +267,8 @@
       <node id="10569" label="10569">
         <attvalues>
           <attvalue for="0" value="0.0008469600400261969" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.46960040026197" />
+          <attvalue for="1" value="M. ANDREWS" />
+          <attvalue for="2" value="3.5408801200785907" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -276,8 +276,8 @@
       <node id="10605" label="10605">
         <attvalues>
           <attvalue for="0" value="0.0023677131207090326" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.677131207090326" />
+          <attvalue for="1" value="S. MATSUNAGA" />
+          <attvalue for="2" value="8.103139362127099" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -285,8 +285,8 @@
       <node id="10715" label="10715">
         <attvalues>
           <attvalue for="0" value="0.0013596474070012004" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.596474070012004" />
+          <attvalue for="1" value="J. CULVER" />
+          <attvalue for="2" value="5.078942221003601" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -294,8 +294,8 @@
       <node id="10791" label="10791">
         <attvalues>
           <attvalue for="0" value="0.0032825554915299603" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="33.825554915299605" />
+          <attvalue for="1" value="D. PRYOR" />
+          <attvalue for="2" value="10.84766647458988" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -303,8 +303,8 @@
       <node id="10800" label="10800">
         <attvalues>
           <attvalue for="0" value="0.0023888281440552824" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.888281440552824" />
+          <attvalue for="1" value="B. BAYH" />
+          <attvalue for="2" value="8.166484432165849" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -313,7 +313,7 @@
         <attvalues>
           <attvalue for="0" value="0.01225486534576682" />
           <attvalue for="1" value="E. KENNEDY" />
-          <attvalue for="2" value="123.5486534576682" />
+          <attvalue for="2" value="37.76459603730046" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -321,8 +321,8 @@
       <node id="10810" label="10810">
         <attvalues>
           <attvalue for="0" value="0.0012890297392103615" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.890297392103614" />
+          <attvalue for="1" value="T. McINTYRE" />
+          <attvalue for="2" value="4.867089217631085" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -330,8 +330,8 @@
       <node id="10816" label="10816">
         <attvalues>
           <attvalue for="0" value="0.0031724693866243703" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="32.724693866243705" />
+          <attvalue for="1" value="G. NELSON" />
+          <attvalue for="2" value="10.517408159873112" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -339,8 +339,8 @@
       <node id="10817" label="10817">
         <attvalues>
           <attvalue for="0" value="0.0011704488128410923" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.704488128410924" />
+          <attvalue for="1" value="J. PEARSON" />
+          <attvalue for="2" value="4.511346438523277" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -348,8 +348,8 @@
       <node id="10818" label="10818">
         <attvalues>
           <attvalue for="0" value="0.0032430440742194375" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="33.43044074219438" />
+          <attvalue for="1" value="C. PELL" />
+          <attvalue for="2" value="10.729132222658313" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -357,8 +357,8 @@
       <node id="10823" label="10823">
         <attvalues>
           <attvalue for="0" value="0.002076349356805927" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.76349356805927" />
+          <attvalue for="1" value="J. TOWER" />
+          <attvalue for="2" value="7.2290480704177815" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -366,8 +366,8 @@
       <node id="11029" label="11029">
         <attvalues>
           <attvalue for="0" value="0.0030865421227540585" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.865421227540583" />
+          <attvalue for="1" value="J. McCLURE" />
+          <attvalue for="2" value="10.259626368262175" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -375,8 +375,8 @@
       <node id="11043" label="11043">
         <attvalues>
           <attvalue for="0" value="0.004135596185272817" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="42.35596185272817" />
+          <attvalue for="1" value="D. RIEGLE" />
+          <attvalue for="2" value="13.406788555818451" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -384,8 +384,8 @@
       <node id="11044" label="11044">
         <attvalues>
           <attvalue for="0" value="0.0057722991959363555" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="58.722991959363554" />
+          <attvalue for="1" value="W. ROTH" />
+          <attvalue for="2" value="18.316897587809066" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -393,8 +393,8 @@
       <node id="11200" label="11200">
         <attvalues>
           <attvalue for="0" value="0.0014092563769164599" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.092563769164599" />
+          <attvalue for="1" value="H. BAKER" />
+          <attvalue for="2" value="5.22776913074938" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -402,8 +402,8 @@
       <node id="11202" label="11202">
         <attvalues>
           <attvalue for="0" value="0.0009657193791239259" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.657193791239258" />
+          <attvalue for="1" value="C. HANSEN" />
+          <attvalue for="2" value="3.8971581373717776" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -411,8 +411,8 @@
       <node id="11204" label="11204">
         <attvalues>
           <attvalue for="0" value="0.00423243545495269" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="43.324354549526895" />
+          <attvalue for="1" value="E. HOLLINGS" />
+          <attvalue for="2" value="13.69730636485807" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -420,8 +420,8 @@
       <node id="11205" label="11205">
         <attvalues>
           <attvalue for="0" value="0.003385669627654603" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="34.85669627654603" />
+          <attvalue for="1" value="C. PERCY" />
+          <attvalue for="2" value="11.15700888296381" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -429,8 +429,8 @@
       <node id="12032" label="12032">
         <attvalues>
           <attvalue for="0" value="0.0019278674131631747" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.278674131631746" />
+          <attvalue for="1" value="L. WEICKER" />
+          <attvalue for="2" value="6.783602239489524" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -438,8 +438,8 @@
       <node id="12039" label="12039">
         <attvalues>
           <attvalue for="0" value="0.002258229581794612" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="23.58229581794612" />
+          <attvalue for="1" value="J. MELCHER" />
+          <attvalue for="2" value="7.774688745383837" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -447,8 +447,8 @@
       <node id="12100" label="12100">
         <attvalues>
           <attvalue for="0" value="0.0010781626666489293" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.781626666489293" />
+          <attvalue for="1" value="J. ALLEN" />
+          <attvalue for="2" value="4.234487999946788" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -456,8 +456,8 @@
       <node id="12101" label="12101">
         <attvalues>
           <attvalue for="0" value="0.0016551307720679275" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.551307720679276" />
+          <attvalue for="1" value="H. BELLMON" />
+          <attvalue for="2" value="5.965392316203783" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -466,7 +466,7 @@
         <attvalues>
           <attvalue for="0" value="0.007365454331183325" />
           <attvalue for="1" value="A. CRANSTON" />
-          <attvalue for="2" value="74.65454331183325" />
+          <attvalue for="2" value="23.096362993549974" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -474,8 +474,8 @@
       <node id="12104" label="12104">
         <attvalues>
           <attvalue for="0" value="0.00240700043702048" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.0700043702048" />
+          <attvalue for="1" value="T. EAGLETON" />
+          <attvalue for="2" value="8.221001311061439" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -483,8 +483,8 @@
       <node id="12105" label="12105">
         <attvalues>
           <attvalue for="0" value="0.001050770941353436" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.50770941353436" />
+          <attvalue for="1" value="M. GRAVEL" />
+          <attvalue for="2" value="4.152312824060308" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -492,8 +492,8 @@
       <node id="12107" label="12107">
         <attvalues>
           <attvalue for="0" value="0.003067972057820556" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.67972057820556" />
+          <attvalue for="1" value="R. PACKWOOD" />
+          <attvalue for="2" value="10.203916173461668" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -501,8 +501,8 @@
       <node id="13000" label="13000">
         <attvalues>
           <attvalue for="0" value="0.001648512879825561" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.48512879825561" />
+          <attvalue for="1" value="J. ABOUREZK" />
+          <attvalue for="2" value="5.945538639476683" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -510,8 +510,8 @@
       <node id="13039" label="13039">
         <attvalues>
           <attvalue for="0" value="0.0024463959437314737" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.463959437314738" />
+          <attvalue for="1" value="P. SARBANES" />
+          <attvalue for="2" value="8.33918783119442" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -519,8 +519,8 @@
       <node id="13056" label="13056">
         <attvalues>
           <attvalue for="0" value="0.0030023593000979756" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.023593000979755" />
+          <attvalue for="1" value="J. BREAUX" />
+          <attvalue for="2" value="10.007077900293927" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -528,8 +528,8 @@
       <node id="13101" label="13101">
         <attvalues>
           <attvalue for="0" value="0.002840425746646477" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="29.40425746646477" />
+          <attvalue for="1" value="L. CHILES" />
+          <attvalue for="2" value="9.521277239939431" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -537,8 +537,8 @@
       <node id="13102" label="13102">
         <attvalues>
           <attvalue for="0" value="0.0015135704850883372" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.13570485088337" />
+          <attvalue for="1" value="A. STEVENSON" />
+          <attvalue for="2" value="5.540711455265011" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -546,8 +546,8 @@
       <node id="14000" label="14000">
         <attvalues>
           <attvalue for="0" value="0.0010409251581505658" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.409251581505659" />
+          <attvalue for="1" value="J. ABDNOR" />
+          <attvalue for="2" value="4.122775474451697" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -555,8 +555,8 @@
       <node id="14002" label="14002">
         <attvalues>
           <attvalue for="0" value="0.002078409105207371" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.78409105207371" />
+          <attvalue for="1" value="W. ARMSTRONG" />
+          <attvalue for="2" value="7.2352273156221125" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -564,8 +564,8 @@
       <node id="14009" label="14009">
         <attvalues>
           <attvalue for="0" value="0.0030235555635591206" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.235555635591208" />
+          <attvalue for="1" value="W. COCHRAN" />
+          <attvalue for="2" value="10.070666690677362" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -573,8 +573,8 @@
       <node id="14010" label="14010">
         <attvalues>
           <attvalue for="0" value="0.002122093031372807" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.22093031372807" />
+          <attvalue for="1" value="W. COHEN" />
+          <attvalue for="2" value="7.366279094118421" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -582,8 +582,8 @@
       <node id="14031" label="14031">
         <attvalues>
           <attvalue for="0" value="0.0016818212777536092" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.818212777536093" />
+          <attvalue for="1" value="C. LOTT" />
+          <attvalue for="2" value="6.045463833260827" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -591,8 +591,8 @@
       <node id="14056" label="14056">
         <attvalues>
           <attvalue for="0" value="0.0021188612676321774" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.188612676321775" />
+          <attvalue for="1" value="S. SYMMS" />
+          <attvalue for="2" value="7.356583802896532" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -600,8 +600,8 @@
       <node id="14073" label="14073">
         <attvalues>
           <attvalue for="0" value="0.004257447860788938" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="43.574478607889375" />
+          <attvalue for="1" value="H. METZENBAUM" />
+          <attvalue for="2" value="13.772343582366814" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -609,8 +609,8 @@
       <node id="14077" label="14077">
         <attvalues>
           <attvalue for="0" value="0.0018915503462326594" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.915503462326594" />
+          <attvalue for="1" value="P. LAXALT" />
+          <attvalue for="2" value="6.674651038697978" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -618,8 +618,8 @@
       <node id="14100" label="14100">
         <attvalues>
           <attvalue for="0" value="0.0017827331615554132" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.827331615554133" />
+          <attvalue for="1" value="D. BARTLETT" />
+          <attvalue for="2" value="6.34819948466624" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -627,8 +627,8 @@
       <node id="14101" label="14101">
         <attvalues>
           <attvalue for="0" value="0.004053493827016899" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="41.534938270168986" />
+          <attvalue for="1" value="J. BIDEN" />
+          <attvalue for="2" value="13.160481481050695" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -637,7 +637,7 @@
         <attvalues>
           <attvalue for="0" value="0.008103377371078043" />
           <attvalue for="1" value="P. DOMENICI" />
-          <attvalue for="2" value="82.03377371078044" />
+          <attvalue for="2" value="25.31013211323413" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -645,8 +645,8 @@
       <node id="14104" label="14104">
         <attvalues>
           <attvalue for="0" value="0.001020461828283919" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.20461828283919" />
+          <attvalue for="1" value="F. HASKELL" />
+          <attvalue for="2" value="4.0613854848517565" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -654,8 +654,8 @@
       <node id="14105" label="14105">
         <attvalues>
           <attvalue for="0" value="0.0038611244709664473" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="39.611244709664476" />
+          <attvalue for="1" value="J. HELMS" />
+          <attvalue for="2" value="12.583373412899341" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -663,8 +663,8 @@
       <node id="14106" label="14106">
         <attvalues>
           <attvalue for="0" value="0.001652959267088397" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.52959267088397" />
+          <attvalue for="1" value="W. HUDDLESTON" />
+          <attvalue for="2" value="5.958877801265191" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -672,8 +672,8 @@
       <node id="14107" label="14107">
         <attvalues>
           <attvalue for="0" value="0.0032990694842474667" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="33.99069484247467" />
+          <attvalue for="1" value="J. JOHNSTON" />
+          <attvalue for="2" value="10.897208452742401" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -681,8 +681,8 @@
       <node id="14108" label="14108">
         <attvalues>
           <attvalue for="0" value="0.0026494738066444932" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="27.49473806644493" />
+          <attvalue for="1" value="S. NUNN" />
+          <attvalue for="2" value="8.94842141993348" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -691,7 +691,7 @@
         <attvalues>
           <attvalue for="0" value="0.007016854804699428" />
           <attvalue for="1" value="M. BAUCUS" />
-          <attvalue for="2" value="71.16854804699427" />
+          <attvalue for="2" value="22.050564414098286" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -699,8 +699,8 @@
       <node id="14213" label="14213">
         <attvalues>
           <attvalue for="0" value="0.006192199379799319" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="62.921993797993196" />
+          <attvalue for="1" value="C. DODD" />
+          <attvalue for="2" value="19.57659813939796" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -709,7 +709,7 @@
         <attvalues>
           <attvalue for="0" value="0.012188624132328357" />
           <attvalue for="1" value="C. GRASSLEY" />
-          <attvalue for="2" value="122.88624132328357" />
+          <attvalue for="2" value="37.56587239698507" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -717,8 +717,8 @@
       <node id="14230" label="14230">
         <attvalues>
           <attvalue for="0" value="0.005930051487841609" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="60.30051487841609" />
+          <attvalue for="1" value="T. HARKIN" />
+          <attvalue for="2" value="18.790154463524825" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -726,8 +726,8 @@
       <node id="14268" label="14268">
         <attvalues>
           <attvalue for="0" value="0.0024250394556712077" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.250394556712077" />
+          <attvalue for="1" value="L. PRESSLER" />
+          <attvalue for="2" value="8.275118367013622" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -735,8 +735,8 @@
       <node id="14282" label="14282">
         <attvalues>
           <attvalue for="0" value="0.0010527215813157622" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.527215813157621" />
+          <attvalue for="1" value="T. WIRTH" />
+          <attvalue for="2" value="4.158164743947287" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -744,8 +744,8 @@
       <node id="14300" label="14300">
         <attvalues>
           <attvalue for="0" value="0.004175380490739081" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="42.75380490739081" />
+          <attvalue for="1" value="D. BUMPERS" />
+          <attvalue for="2" value="13.526141472217242" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -753,8 +753,8 @@
       <node id="14303" label="14303">
         <attvalues>
           <attvalue for="0" value="0.0025044991253519427" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.044991253519427" />
+          <attvalue for="1" value="E. GARN" />
+          <attvalue for="2" value="8.513497376055827" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -762,8 +762,8 @@
       <node id="14304" label="14304">
         <attvalues>
           <attvalue for="0" value="0.0034518847937825984" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="35.51884793782598" />
+          <attvalue for="1" value="J. GLENN" />
+          <attvalue for="2" value="11.355654381347795" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -771,8 +771,8 @@
       <node id="14305" label="14305">
         <attvalues>
           <attvalue for="0" value="0.0025212256827983268" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.212256827983268" />
+          <attvalue for="1" value="G. HART" />
+          <attvalue for="2" value="8.56367704839498" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -781,7 +781,7 @@
         <attvalues>
           <attvalue for="0" value="0.008187343724429186" />
           <attvalue for="1" value="P. LEAHY" />
-          <attvalue for="2" value="82.87343724429186" />
+          <attvalue for="2" value="25.562031173287558" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -789,8 +789,8 @@
       <node id="14308" label="14308">
         <attvalues>
           <attvalue for="0" value="0.0008902017482738975" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.902017482738975" />
+          <attvalue for="1" value="R. MORGAN" />
+          <attvalue for="2" value="3.6706052448216924" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -798,8 +798,8 @@
       <node id="14309" label="14309">
         <attvalues>
           <attvalue for="0" value="0.0014161443443425987" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.161443443425988" />
+          <attvalue for="1" value="R. STONE" />
+          <attvalue for="2" value="5.248433033027796" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -807,8 +807,8 @@
       <node id="14310" label="14310">
         <attvalues>
           <attvalue for="0" value="0.0015449084636858202" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.449084636858203" />
+          <attvalue for="1" value="J. DURKIN" />
+          <attvalue for="2" value="5.634725391057461" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -816,8 +816,8 @@
       <node id="14423" label="14423">
         <attvalues>
           <attvalue for="0" value="0.001615199503678159" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.15199503678159" />
+          <attvalue for="1" value="A. GORE" />
+          <attvalue for="2" value="5.845598511034477" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -825,8 +825,8 @@
       <node id="14440" label="14440">
         <attvalues>
           <attvalue for="0" value="0.0025423684843844155" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.423684843844157" />
+          <attvalue for="1" value="B. MIKULSKI" />
+          <attvalue for="2" value="8.627105453153247" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -834,8 +834,8 @@
       <node id="14456" label="14456">
         <attvalues>
           <attvalue for="0" value="0.0013997456616661754" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.997456616661754" />
+          <attvalue for="1" value="P. TRIBLE" />
+          <attvalue for="2" value="5.199236984998526" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -843,8 +843,8 @@
       <node id="14467" label="14467">
         <attvalues>
           <attvalue for="0" value="0.0009110188307232157" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.110188307232157" />
+          <attvalue for="1" value="W. FOWLER" />
+          <attvalue for="2" value="3.733056492169647" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -852,8 +852,8 @@
       <node id="14500" label="14500">
         <attvalues>
           <attvalue for="0" value="0.004430054312415177" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="45.30054312415177" />
+          <attvalue for="1" value="J. CHAFEE" />
+          <attvalue for="2" value="14.290162937245531" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -861,8 +861,8 @@
       <node id="14501" label="14501">
         <attvalues>
           <attvalue for="0" value="0.004495320588077777" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="45.95320588077777" />
+          <attvalue for="1" value="J. DANFORTH" />
+          <attvalue for="2" value="14.485961764233332" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -870,8 +870,8 @@
       <node id="14502" label="14502">
         <attvalues>
           <attvalue for="0" value="0.005336681290905739" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="54.36681290905739" />
+          <attvalue for="1" value="D. DeCONCINI" />
+          <attvalue for="2" value="17.010043872717215" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -880,7 +880,7 @@
         <attvalues>
           <attvalue for="0" value="0.011383451377730933" />
           <attvalue for="1" value="O. HATCH" />
-          <attvalue for="2" value="114.83451377730933" />
+          <attvalue for="2" value="35.1503541331928" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -888,8 +888,8 @@
       <node id="14504" label="14504">
         <attvalues>
           <attvalue for="0" value="0.0012320890922125404" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.320890922125404" />
+          <attvalue for="1" value="S. HAYAKAWA" />
+          <attvalue for="2" value="4.696267276637621" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -898,7 +898,7 @@
         <attvalues>
           <attvalue for="0" value="0.008158015752551642" />
           <attvalue for="1" value="D. MOYNIHAN" />
-          <attvalue for="2" value="82.58015752551641" />
+          <attvalue for="2" value="25.474047257654927" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -906,8 +906,8 @@
       <node id="14509" label="14509">
         <attvalues>
           <attvalue for="0" value="0.0025449366028094077" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.449366028094076" />
+          <attvalue for="1" value="J. SASSER" />
+          <attvalue for="2" value="8.634809808428223" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -915,8 +915,8 @@
       <node id="14511" label="14511">
         <attvalues>
           <attvalue for="0" value="0.002115821295068766" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.15821295068766" />
+          <attvalue for="1" value="M. WALLOP" />
+          <attvalue for="2" value="7.347463885206297" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -924,8 +924,8 @@
       <node id="14512" label="14512">
         <attvalues>
           <attvalue for="0" value="0.0009543528467346517" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.543528467346517" />
+          <attvalue for="1" value="E. ZORINSKY" />
+          <attvalue for="2" value="3.863058540203955" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -933,8 +933,8 @@
       <node id="14513" label="14513">
         <attvalues>
           <attvalue for="0" value="0.0007129649282846727" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.129649282846728" />
+          <attvalue for="1" value="W. ANDERSON" />
+          <attvalue for="2" value="3.1388947848540183" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -942,8 +942,8 @@
       <node id="14617" label="14617">
         <attvalues>
           <attvalue for="0" value="0.004743212421746909" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="48.432124217469095" />
+          <attvalue for="1" value="T. DASCHLE" />
+          <attvalue for="2" value="15.229637265240727" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -951,8 +951,8 @@
       <node id="14628" label="14628">
         <attvalues>
           <attvalue for="0" value="0.001855106843757233" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.55106843757233" />
+          <attvalue for="1" value="W. GRAMM" />
+          <attvalue for="2" value="6.5653205312716985" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -960,8 +960,8 @@
       <node id="14700" label="14700">
         <attvalues>
           <attvalue for="0" value="0.0026777468682807485" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="27.777468682807484" />
+          <attvalue for="1" value="D. BOREN" />
+          <attvalue for="2" value="9.033240604842245" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -969,8 +969,8 @@
       <node id="14702" label="14702">
         <attvalues>
           <attvalue for="0" value="0.0038787080202174066" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="39.78708020217407" />
+          <attvalue for="1" value="W. BRADLEY" />
+          <attvalue for="2" value="12.63612406065222" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -978,8 +978,8 @@
       <node id="14703" label="14703">
         <attvalues>
           <attvalue for="0" value="0.004539660971703761" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="46.396609717037606" />
+          <attvalue for="1" value="D. DURENBERGER" />
+          <attvalue for="2" value="14.618982915111284" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -987,8 +987,8 @@
       <node id="14705" label="14705">
         <attvalues>
           <attvalue for="0" value="0.0020944558790468074" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.944558790468076" />
+          <attvalue for="1" value="H. HEFLIN" />
+          <attvalue for="2" value="7.283367637140422" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -996,8 +996,8 @@
       <node id="14706" label="14706">
         <attvalues>
           <attvalue for="0" value="0.0017086373241516782" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.08637324151678" />
+          <attvalue for="1" value="G. HUMPHREY" />
+          <attvalue for="2" value="6.125911972455035" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1005,8 +1005,8 @@
       <node id="14707" label="14707">
         <attvalues>
           <attvalue for="0" value="0.001295354825824684" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.95354825824684" />
+          <attvalue for="1" value="R. JEPSEN" />
+          <attvalue for="2" value="4.8860644774740525" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1014,8 +1014,8 @@
       <node id="14708" label="14708">
         <attvalues>
           <attvalue for="0" value="0.002777958496643069" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="28.779584966430694" />
+          <attvalue for="1" value="N. KASSEBAUM" />
+          <attvalue for="2" value="9.333875489929207" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1023,8 +1023,8 @@
       <node id="14709" label="14709">
         <attvalues>
           <attvalue for="0" value="0.005447513203188552" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="55.47513203188552" />
+          <attvalue for="1" value="C. LEVIN" />
+          <attvalue for="2" value="17.342539609565655" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1032,8 +1032,8 @@
       <node id="14711" label="14711">
         <attvalues>
           <attvalue for="0" value="0.0005932285096041129" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.932285096041129" />
+          <attvalue for="1" value="D. STEWART" />
+          <attvalue for="2" value="2.7796855288123385" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1041,8 +1041,8 @@
       <node id="14713" label="14713">
         <attvalues>
           <attvalue for="0" value="0.003115887285963545" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="32.15887285963545" />
+          <attvalue for="1" value="G. MITCHELL" />
+          <attvalue for="2" value="10.347661857890635" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1050,8 +1050,8 @@
       <node id="14900" label="14900">
         <attvalues>
           <attvalue for="0" value="0.005494412038293129" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="55.94412038293129" />
+          <attvalue for="1" value="A. D'AMATO" />
+          <attvalue for="2" value="17.483236114879386" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1059,8 +1059,8 @@
       <node id="14901" label="14901">
         <attvalues>
           <attvalue for="0" value="0.001129454101769644" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.294541017696439" />
+          <attvalue for="1" value="J. DENTON" />
+          <attvalue for="2" value="4.388362305308932" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1068,8 +1068,8 @@
       <node id="14902" label="14902">
         <attvalues>
           <attvalue for="0" value="0.0018830456442414415" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.830456442414416" />
+          <attvalue for="1" value="A. DIXON" />
+          <attvalue for="2" value="6.649136932724325" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1077,8 +1077,8 @@
       <node id="14903" label="14903">
         <attvalues>
           <attvalue for="0" value="0.0006588910766394532" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.588910766394532" />
+          <attvalue for="1" value="J. EAST" />
+          <attvalue for="2" value="2.97667322991836" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1086,8 +1086,8 @@
       <node id="14904" label="14904">
         <attvalues>
           <attvalue for="0" value="0.003384387226114236" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="34.84387226114236" />
+          <attvalue for="1" value="T. GORTON" />
+          <attvalue for="2" value="11.153161678342707" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1095,8 +1095,8 @@
       <node id="14905" label="14905">
         <attvalues>
           <attvalue for="0" value="0.0011296194870206507" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.296194870206508" />
+          <attvalue for="1" value="P. HAWKINS" />
+          <attvalue for="2" value="4.388858461061952" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1104,8 +1104,8 @@
       <node id="14907" label="14907">
         <attvalues>
           <attvalue for="0" value="0.0034314372238795246" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="35.314372238795244" />
+          <attvalue for="1" value="F. MURKOWSKI" />
+          <attvalue for="2" value="11.294311671638575" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1113,8 +1113,8 @@
       <node id="14908" label="14908">
         <attvalues>
           <attvalue for="0" value="0.002532324976323748" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.323249763237477" />
+          <attvalue for="1" value="D. NICKLES" />
+          <attvalue for="2" value="8.596974928971242" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1122,8 +1122,8 @@
       <node id="14910" label="14910">
         <attvalues>
           <attvalue for="0" value="0.006789379738257437" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="68.89379738257436" />
+          <attvalue for="1" value="A. SPECTER" />
+          <attvalue for="2" value="21.36813921477231" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1132,7 +1132,7 @@
         <attvalues>
           <attvalue for="0" value="0.009111764916178045" />
           <attvalue for="1" value="J. BINGAMAN" />
-          <attvalue for="2" value="92.11764916178045" />
+          <attvalue for="2" value="28.33529474853413" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1141,7 +1141,7 @@
         <attvalues>
           <attvalue for="0" value="0.007964568587786481" />
           <attvalue for="1" value="F. LAUTENBERG" />
-          <attvalue for="2" value="80.6456858778648" />
+          <attvalue for="2" value="24.893705763359442" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1149,8 +1149,8 @@
       <node id="14915" label="14915">
         <attvalues>
           <attvalue for="0" value="0.0017844538284596903" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.844538284596904" />
+          <attvalue for="1" value="P. WILSON" />
+          <attvalue for="2" value="6.353361485379071" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1158,8 +1158,8 @@
       <node id="14921" label="14921">
         <attvalues>
           <attvalue for="0" value="0.0032935655078486967" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="33.93565507848697" />
+          <attvalue for="1" value="A. McCONNELL" />
+          <attvalue for="2" value="10.88069652354609" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1167,8 +1167,8 @@
       <node id="14922" label="14922">
         <attvalues>
           <attvalue for="0" value="0.005800677425979173" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="59.006774259791726" />
+          <attvalue for="1" value="J. ROCKEFELLER" />
+          <attvalue for="2" value="18.40203227793752" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1177,7 +1177,7 @@
         <attvalues>
           <attvalue for="0" value="0.009159786861244903" />
           <attvalue for="1" value="J. McCAIN" />
-          <attvalue for="2" value="92.59786861244903" />
+          <attvalue for="2" value="28.47936058373471" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1185,8 +1185,8 @@
       <node id="15501" label="15501">
         <attvalues>
           <attvalue for="0" value="0.0031285591501123214" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="32.285591501123214" />
+          <attvalue for="1" value="C. BOND" />
+          <attvalue for="2" value="10.385677450336964" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1194,8 +1194,8 @@
       <node id="15502" label="15502">
         <attvalues>
           <attvalue for="0" value="0.0029023898672693284" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="30.023898672693285" />
+          <attvalue for="1" value="K. CONRAD" />
+          <attvalue for="2" value="9.707169601807985" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1203,8 +1203,8 @@
       <node id="15503" label="15503">
         <attvalues>
           <attvalue for="0" value="0.004178567504340554" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="42.78567504340554" />
+          <attvalue for="1" value="D. GRAHAM" />
+          <attvalue for="2" value="13.535702513021661" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1212,8 +1212,8 @@
       <node id="15700" label="15700">
         <attvalues>
           <attvalue for="0" value="0.0014310213757936037" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.310213757936037" />
+          <attvalue for="1" value="R. BRYAN" />
+          <attvalue for="2" value="5.293064127380811" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1221,8 +1221,8 @@
       <node id="42301" label="42301">
         <attvalues>
           <attvalue for="0" value="0.005734838404573021" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="58.34838404573021" />
+          <attvalue for="1" value="J. FETTERMAN" />
+          <attvalue for="2" value="18.204515213719063" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1230,8 +1230,8 @@
       <node id="1569" label="1569">
         <attvalues>
           <attvalue for="0" value="0.0008764856723928627" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.764856723928627" />
+          <attvalue for="1" value="C. CASE" />
+          <attvalue for="2" value="3.6294570171785883" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1239,8 +1239,8 @@
       <node id="2267" label="2267">
         <attvalues>
           <attvalue for="0" value="0.0007912120322773877" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.912120322773877" />
+          <attvalue for="1" value="C. CURTIS" />
+          <attvalue for="2" value="3.373636096832163" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1248,8 +1248,8 @@
       <node id="4148" label="4148">
         <attvalues>
           <attvalue for="0" value="0.0008250070059956152" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.250070059956153" />
+          <attvalue for="1" value="P. HART" />
+          <attvalue for="2" value="3.4750210179868457" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1257,8 +1257,8 @@
       <node id="4660" label="4660">
         <attvalues>
           <attvalue for="0" value="0.0005942320297700819" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.942320297700819" />
+          <attvalue for="1" value="R. HRUSKA" />
+          <attvalue for="2" value="2.782696089310246" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1266,8 +1266,8 @@
       <node id="4851" label="4851">
         <attvalues>
           <attvalue for="0" value="0.0046748365091785005" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="47.748365091785004" />
+          <attvalue for="1" value="H. JACKSON" />
+          <attvalue for="2" value="15.024509527535502" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1275,8 +1275,8 @@
       <node id="6151" label="6151">
         <attvalues>
           <attvalue for="0" value="0.0007726075898188377" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.726075898188377" />
+          <attvalue for="1" value="J. McCLELLAN" />
+          <attvalue for="2" value="3.317822769456513" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1284,8 +1284,8 @@
       <node id="6249" label="6249">
         <attvalues>
           <attvalue for="0" value="0.0005766782873888331" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.766782873888331" />
+          <attvalue for="1" value="G. McGEE" />
+          <attvalue for="2" value="2.730034862166499" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1293,8 +1293,8 @@
       <node id="6611" label="6611">
         <attvalues>
           <attvalue for="0" value="0.0008903175776124911" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.903175776124911" />
+          <attvalue for="1" value="J. MONTOYA" />
+          <attvalue for="2" value="3.670952732837473" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1302,8 +1302,8 @@
       <node id="6754" label="6754">
         <attvalues>
           <attvalue for="0" value="0.00298785210587247" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="30.8785210587247" />
+          <attvalue for="1" value="F. MOSS" />
+          <attvalue for="2" value="9.96355631761741" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1311,8 +1311,8 @@
       <node id="6831" label="6831">
         <attvalues>
           <attvalue for="0" value="0.0010136793411440106" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.136793411440106" />
+          <attvalue for="1" value="E. MUSKIE" />
+          <attvalue for="2" value="4.041038023432032" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1320,8 +1320,8 @@
       <node id="10450" label="10450">
         <attvalues>
           <attvalue for="0" value="0.0005041477829581584" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.041477829581584" />
+          <attvalue for="1" value="M. YOUNG" />
+          <attvalue for="2" value="2.5124433488744753" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1329,8 +1329,8 @@
       <node id="10700" label="10700">
         <attvalues>
           <attvalue for="0" value="0.0011846724281352982" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.846724281352982" />
+          <attvalue for="1" value="B. ADAMS" />
+          <attvalue for="2" value="4.554017284405894" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1338,8 +1338,8 @@
       <node id="10777" label="10777">
         <attvalues>
           <attvalue for="0" value="0.0011389050231530914" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.389050231530915" />
+          <attvalue for="1" value="J. TUNNEY" />
+          <attvalue for="2" value="4.416715069459274" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1347,8 +1347,8 @@
       <node id="10804" label="10804">
         <attvalues>
           <attvalue for="0" value="0.001055804320057183" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.55804320057183" />
+          <attvalue for="1" value="P. FANNIN" />
+          <attvalue for="2" value="4.167412960171549" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1356,8 +1356,8 @@
       <node id="10813" label="10813">
         <attvalues>
           <attvalue for="0" value="0.001157135341753037" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.57135341753037" />
+          <attvalue for="1" value="W. MONDALE" />
+          <attvalue for="2" value="4.47140602525911" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1365,8 +1365,8 @@
       <node id="11203" label="11203">
         <attvalues>
           <attvalue for="0" value="0.0036195661844779957" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="37.195661844779956" />
+          <attvalue for="1" value="M. HATFIELD" />
+          <attvalue for="2" value="11.858698553433987" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1374,8 +1374,8 @@
       <node id="12109" label="12109">
         <attvalues>
           <attvalue for="0" value="0.004724012652910976" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="48.24012652910976" />
+          <attvalue for="1" value="T. STEVENS" />
+          <attvalue for="2" value="15.172037958732927" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1383,8 +1383,8 @@
       <node id="14102" label="14102">
         <attvalues>
           <attvalue for="0" value="0.0009936177574448167" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.936177574448168" />
+          <attvalue for="1" value="R. CLARK" />
+          <attvalue for="2" value="3.9808532723344503" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1392,8 +1392,8 @@
       <node id="14240" label="14240">
         <attvalues>
           <attvalue for="0" value="0.003176710290152164" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="32.76710290152164" />
+          <attvalue for="1" value="J. JEFFORDS" />
+          <attvalue for="2" value="10.530130870456492" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1401,8 +1401,8 @@
       <node id="14242" label="14242">
         <attvalues>
           <attvalue for="0" value="0.001668169192586672" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.68169192586672" />
+          <attvalue for="1" value="R. KASTEN" />
+          <attvalue for="2" value="6.004507577760016" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1410,8 +1410,8 @@
       <node id="14275" label="14275">
         <attvalues>
           <attvalue for="0" value="0.0027756276707484096" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="28.756276707484098" />
+          <attvalue for="1" value="P. SIMON" />
+          <attvalue for="2" value="9.32688301224523" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1419,8 +1419,8 @@
       <node id="14302" label="14302">
         <attvalues>
           <attvalue for="0" value="0.0022537687869775085" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="23.537687869775084" />
+          <attvalue for="1" value="W. FORD" />
+          <attvalue for="2" value="7.761306360932526" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1428,8 +1428,8 @@
       <node id="14400" label="14400">
         <attvalues>
           <attvalue for="0" value="0.004649936808718137" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="47.499368087181374" />
+          <attvalue for="1" value="D. AKAKA" />
+          <attvalue for="2" value="14.94981042615441" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1437,8 +1437,8 @@
       <node id="14447" label="14447">
         <attvalues>
           <attvalue for="0" value="0.0011999363786196525" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.999363786196525" />
+          <attvalue for="1" value="J. QUAYLE" />
+          <attvalue for="2" value="4.5998091358589575" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1446,8 +1446,8 @@
       <node id="14506" label="14506">
         <attvalues>
           <attvalue for="0" value="0.004244535403033695" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="43.44535403033695" />
+          <attvalue for="1" value="R. LUGAR" />
+          <attvalue for="2" value="13.733606209101085" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1455,8 +1455,8 @@
       <node id="14510" label="14510">
         <attvalues>
           <attvalue for="0" value="0.0010303972783337735" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.303972783337736" />
+          <attvalue for="1" value="H. SCHMITT" />
+          <attvalue for="2" value="4.09119183500132" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1464,8 +1464,8 @@
       <node id="14659" label="14659">
         <attvalues>
           <attvalue for="0" value="0.001830096280471053" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.30096280471053" />
+          <attvalue for="1" value="R. SHELBY" />
+          <attvalue for="2" value="6.490288841413159" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1473,8 +1473,8 @@
       <node id="14701" label="14701">
         <attvalues>
           <attvalue for="0" value="0.0019178910087537966" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.178910087537968" />
+          <attvalue for="1" value="R. BOSCHWITZ" />
+          <attvalue for="2" value="6.7536730262613895" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1482,8 +1482,8 @@
       <node id="14704" label="14704">
         <attvalues>
           <attvalue for="0" value="0.0019753655797794234" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.753655797794234" />
+          <attvalue for="1" value="J. EXON" />
+          <attvalue for="2" value="6.92609673933827" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1491,8 +1491,8 @@
       <node id="14710" label="14710">
         <attvalues>
           <attvalue for="0" value="0.0014612323133294735" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.612323133294735" />
+          <attvalue for="1" value="A. SIMPSON" />
+          <attvalue for="2" value="5.383696939988421" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1500,8 +1500,8 @@
       <node id="14712" label="14712">
         <attvalues>
           <attvalue for="0" value="0.0030504859242918747" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.504859242918748" />
+          <attvalue for="1" value="J. WARNER" />
+          <attvalue for="2" value="10.151457772875624" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1509,8 +1509,8 @@
       <node id="14803" label="14803">
         <attvalues>
           <attvalue for="0" value="0.0011720805949709061" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.720805949709062" />
+          <attvalue for="1" value="G. BROWN" />
+          <attvalue for="2" value="4.516241784912719" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1518,8 +1518,8 @@
       <node id="14916" label="14916">
         <attvalues>
           <attvalue for="0" value="0.0008504858590274223" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.504858590274223" />
+          <attvalue for="1" value="D. EVANS" />
+          <attvalue for="2" value="3.551457577082267" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1528,7 +1528,7 @@
         <attvalues>
           <attvalue for="0" value="0.007129668973292069" />
           <attvalue for="1" value="J. KERRY" />
-          <attvalue for="2" value="72.29668973292068" />
+          <attvalue for="2" value="22.389006919876206" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1536,8 +1536,8 @@
       <node id="15054" label="15054">
         <attvalues>
           <attvalue for="0" value="0.0048730728106293544" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="49.73072810629355" />
+          <attvalue for="1" value="H. REID" />
+          <attvalue for="2" value="15.619218431888063" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1545,8 +1545,8 @@
       <node id="15504" label="15504">
         <attvalues>
           <attvalue for="0" value="0.0008131029001791274" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.131029001791275" />
+          <attvalue for="1" value="(. SANFORD" />
+          <attvalue for="2" value="3.4393087005373824" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1554,8 +1554,8 @@
       <node id="15701" label="15701">
         <attvalues>
           <attvalue for="0" value="0.002212963153385775" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="23.12963153385775" />
+          <attvalue for="1" value="C. BURNS" />
+          <attvalue for="2" value="7.638889460157325" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1563,8 +1563,8 @@
       <node id="15702" label="15702">
         <attvalues>
           <attvalue for="0" value="0.0010192648934799727" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.192648934799728" />
+          <attvalue for="1" value="J. KERREY" />
+          <attvalue for="2" value="4.057794680439918" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1572,8 +1572,8 @@
       <node id="15703" label="15703">
         <attvalues>
           <attvalue for="0" value="0.003917794684513862" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="40.17794684513862" />
+          <attvalue for="1" value="H. KOHL" />
+          <attvalue for="2" value="12.753384053541586" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1581,8 +1581,8 @@
       <node id="49104" label="49104">
         <attvalues>
           <attvalue for="0" value="0.0008446175048960119" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.44617504896012" />
+          <attvalue for="1" value="H. WOFFORD" />
+          <attvalue for="2" value="3.5338525146880357" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1590,8 +1590,8 @@
       <node id="3824" label="3824">
         <attvalues>
           <attvalue for="0" value="0.0007161449258106848" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.161449258106849" />
+          <attvalue for="1" value="R. GRIFFIN" />
+          <attvalue for="2" value="3.1484347774320542" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1599,8 +1599,8 @@
       <node id="14279" label="14279">
         <attvalues>
           <attvalue for="0" value="0.0011968877297429418" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.968877297429419" />
+          <attvalue for="1" value="P. TSONGAS" />
+          <attvalue for="2" value="4.590663189228826" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1608,8 +1608,8 @@
       <node id="14661" label="14661">
         <attvalues>
           <attvalue for="0" value="0.006092419222673323" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="61.92419222673323" />
+          <attvalue for="1" value="O. SNOWE" />
+          <attvalue for="2" value="19.27725766801997" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1617,8 +1617,8 @@
       <node id="14806" label="14806">
         <attvalues>
           <attvalue for="0" value="0.0015391591358610709" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.39159135861071" />
+          <attvalue for="1" value="D. COATS" />
+          <attvalue for="2" value="5.617477407583213" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1626,8 +1626,8 @@
       <node id="14812" label="14812">
         <attvalues>
           <attvalue for="0" value="0.0033233330447400614" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="34.23333044740061" />
+          <attvalue for="1" value="B. DORGAN" />
+          <attvalue for="2" value="10.969999134220185" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1635,8 +1635,8 @@
       <node id="14858" label="14858">
         <attvalues>
           <attvalue for="0" value="0.006300447436447471" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="64.0044743644747" />
+          <attvalue for="1" value="C. SCHUMER" />
+          <attvalue for="2" value="19.90134230934241" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1645,7 +1645,7 @@
         <attvalues>
           <attvalue for="0" value="0.007326124496351614" />
           <attvalue for="1" value="R. WYDEN" />
-          <attvalue for="2" value="74.26124496351615" />
+          <attvalue for="2" value="22.978373489054842" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1653,8 +1653,8 @@
       <node id="15011" label="15011">
         <attvalues>
           <attvalue for="0" value="0.005530980230987218" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="56.309802309872175" />
+          <attvalue for="1" value="B. BOXER" />
+          <attvalue for="2" value="17.59294069296165" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1662,8 +1662,8 @@
       <node id="15015" label="15015">
         <attvalues>
           <attvalue for="0" value="0.003304349279227747" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="34.04349279227747" />
+          <attvalue for="1" value="T. CARPER" />
+          <attvalue for="2" value="10.91304783768324" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1671,8 +1671,8 @@
       <node id="15020" label="15020">
         <attvalues>
           <attvalue for="0" value="0.0029859787286499856" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="30.859787286499856" />
+          <attvalue for="1" value="M. DeWINE" />
+          <attvalue for="2" value="9.957936185949958" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1681,7 +1681,7 @@
         <attvalues>
           <attvalue for="0" value="0.009429614165860443" />
           <attvalue for="1" value="R. DURBIN" />
-          <attvalue for="2" value="95.29614165860443" />
+          <attvalue for="2" value="29.288842497581328" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1689,8 +1689,8 @@
       <node id="15071" label="15071">
         <attvalues>
           <attvalue for="0" value="0.0016411908054188157" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.411908054188157" />
+          <attvalue for="1" value="R. TORRICELLI" />
+          <attvalue for="2" value="5.923572416256447" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1698,8 +1698,8 @@
       <node id="15116" label="15116">
         <attvalues>
           <attvalue for="0" value="0.001400009219727015" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.00009219727015" />
+          <attvalue for="1" value="R. SMITH" />
+          <attvalue for="2" value="5.200027659181045" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1707,8 +1707,8 @@
       <node id="15406" label="15406">
         <attvalues>
           <attvalue for="0" value="0.0013853846415664572" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.853846415664572" />
+          <attvalue for="1" value="J. BUNNING" />
+          <attvalue for="2" value="5.156153924699372" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1716,8 +1716,8 @@
       <node id="15408" label="15408">
         <attvalues>
           <attvalue for="0" value="0.004289135868619648" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="43.891358686196476" />
+          <attvalue for="1" value="B. CARDIN" />
+          <attvalue for="2" value="13.867407605858943" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1725,8 +1725,8 @@
       <node id="15424" label="15424">
         <attvalues>
           <attvalue for="0" value="0.0035082037373194088" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="36.08203737319409" />
+          <attvalue for="1" value="J. INHOFE" />
+          <attvalue for="2" value="11.524611211958227" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1734,8 +1734,8 @@
       <node id="15425" label="15425">
         <attvalues>
           <attvalue for="0" value="0.002481004867159097" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.81004867159097" />
+          <attvalue for="1" value="T. JOHNSON" />
+          <attvalue for="2" value="8.44301460147729" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1743,8 +1743,8 @@
       <node id="15704" label="15704">
         <attvalues>
           <attvalue for="0" value="0.0030435349555756066" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.435349555756066" />
+          <attvalue for="1" value="J. LIEBERMAN" />
+          <attvalue for="2" value="10.13060486672682" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1752,8 +1752,8 @@
       <node id="15705" label="15705">
         <attvalues>
           <attvalue for="0" value="0.0009480913809360063" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.480913809360063" />
+          <attvalue for="1" value="C. ROBB" />
+          <attvalue for="2" value="3.844274142808019" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1761,8 +1761,8 @@
       <node id="20735" label="20735">
         <attvalues>
           <attvalue for="0" value="0.0044694069473972305" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="45.694069473972306" />
+          <attvalue for="1" value="K. GILLIBRAND" />
+          <attvalue for="2" value="14.408220842191692" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1770,8 +1770,8 @@
       <node id="29141" label="29141">
         <attvalues>
           <attvalue for="0" value="0.002628660428342915" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="27.28660428342915" />
+          <attvalue for="1" value="R. SANTORUM" />
+          <attvalue for="2" value="8.885981285028745" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1779,8 +1779,8 @@
       <node id="29142" label="29142">
         <attvalues>
           <attvalue for="0" value="0.004706005479905453" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="48.060054799054534" />
+          <attvalue for="1" value="J. REED" />
+          <attvalue for="2" value="15.11801643971636" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1788,8 +1788,8 @@
       <node id="29148" label="29148">
         <attvalues>
           <attvalue for="0" value="0.0011688253992343037" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.688253992343038" />
+          <attvalue for="1" value="G. ALLEN" />
+          <attvalue for="2" value="4.506476197702911" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1797,8 +1797,8 @@
       <node id="29305" label="29305">
         <attvalues>
           <attvalue for="0" value="0.002475162018470122" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.75162018470122" />
+          <attvalue for="1" value="B. LINCOLN" />
+          <attvalue for="2" value="8.425486055410367" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1806,8 +1806,8 @@
       <node id="29306" label="29306">
         <attvalues>
           <attvalue for="0" value="0.0012420834374514242" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.420834374514243" />
+          <attvalue for="1" value="T. HUTCHINSON" />
+          <attvalue for="2" value="4.7262503123542725" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1815,8 +1815,8 @@
       <node id="29389" label="29389">
         <attvalues>
           <attvalue for="0" value="0.006463979247438737" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="65.63979247438736" />
+          <attvalue for="1" value="S. BROWN" />
+          <attvalue for="2" value="20.391937742316212" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1824,8 +1824,8 @@
       <node id="29523" label="29523">
         <attvalues>
           <attvalue for="0" value="0.00203659164785538" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.3659164785538" />
+          <attvalue for="1" value="S. BROWNBACK" />
+          <attvalue for="2" value="7.10977494356614" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1833,8 +1833,8 @@
       <node id="29548" label="29548">
         <attvalues>
           <attvalue for="0" value="0.0024988373340820947" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.988373340820946" />
+          <attvalue for="1" value="R. BURR" />
+          <attvalue for="2" value="8.496512002246284" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1842,8 +1842,8 @@
       <node id="29740" label="29740">
         <attvalues>
           <attvalue for="0" value="0.0007106702421621167" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.106702421621167" />
+          <attvalue for="1" value="J. SUNUNU" />
+          <attvalue for="2" value="3.13201072648635" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1851,8 +1851,8 @@
       <node id="29754" label="29754">
         <attvalues>
           <attvalue for="0" value="0.004032784347431176" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="41.32784347431176" />
+          <attvalue for="1" value="J. THUNE" />
+          <attvalue for="2" value="13.098353042293528" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1860,8 +1860,8 @@
       <node id="29924" label="29924">
         <attvalues>
           <attvalue for="0" value="0.0024497611729333833" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.497611729333833" />
+          <attvalue for="1" value="T. UDALL" />
+          <attvalue for="2" value="8.34928351880015" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1869,8 +1869,8 @@
       <node id="29936" label="29936">
         <attvalues>
           <attvalue for="0" value="0.0014156026783955437" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.156026783955436" />
+          <attvalue for="1" value="J. DeMINT" />
+          <attvalue for="2" value="5.246808035186631" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1878,8 +1878,8 @@
       <node id="39310" label="39310">
         <attvalues>
           <attvalue for="0" value="0.0037896865516941058" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="38.896865516941055" />
+          <attvalue for="1" value="M. CANTWELL" />
+          <attvalue for="2" value="12.369059655082317" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1887,8 +1887,8 @@
       <node id="40103" label="40103">
         <attvalues>
           <attvalue for="0" value="0.0010239351002703577" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.239351002703577" />
+          <attvalue for="1" value="E. NELSON" />
+          <attvalue for="2" value="4.071805300811073" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1896,8 +1896,8 @@
       <node id="40105" label="40105">
         <attvalues>
           <attvalue for="0" value="0.003740467799925017" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="38.404677999250175" />
+          <attvalue for="1" value="H. CLINTON" />
+          <attvalue for="2" value="12.22140339977505" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1905,8 +1905,8 @@
       <node id="40302" label="40302">
         <attvalues>
           <attvalue for="0" value="0.0015191157412135995" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.191157412135993" />
+          <attvalue for="1" value="N. COLEMAN" />
+          <attvalue for="2" value="5.557347223640798" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1914,8 +1914,8 @@
       <node id="40304" label="40304">
         <attvalues>
           <attvalue for="0" value="0.0020781577426209463" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.781577426209463" />
+          <attvalue for="1" value="L. ALEXANDER" />
+          <attvalue for="2" value="7.234473227862839" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1923,8 +1923,8 @@
       <node id="40502" label="40502">
         <attvalues>
           <attvalue for="0" value="0.0014082077763366905" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.082077763366906" />
+          <attvalue for="1" value="B. OBAMA" />
+          <attvalue for="2" value="5.224623329010072" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1932,8 +1932,8 @@
       <node id="40910" label="40910">
         <attvalues>
           <attvalue for="0" value="0.0033860337513493158" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="34.86033751349316" />
+          <attvalue for="1" value="M. BENNET" />
+          <attvalue for="2" value="11.158101254047947" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1941,8 +1941,8 @@
       <node id="49101" label="49101">
         <attvalues>
           <attvalue for="0" value="0.0016715435738966576" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.715435738966576" />
+          <attvalue for="1" value="P. WELLSTONE" />
+          <attvalue for="2" value="6.014630721689973" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1951,7 +1951,7 @@
         <attvalues>
           <attvalue for="0" value="0.008352504963493303" />
           <attvalue for="1" value="D. FEINSTEIN" />
-          <attvalue for="2" value="84.52504963493303" />
+          <attvalue for="2" value="26.057514890479908" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1959,8 +1959,8 @@
       <node id="49301" label="49301">
         <attvalues>
           <attvalue for="0" value="0.0012946758434966806" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.946758434966807" />
+          <attvalue for="1" value="P. COVERDELL" />
+          <attvalue for="2" value="4.884027530490042" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1968,8 +1968,8 @@
       <node id="49306" label="49306">
         <attvalues>
           <attvalue for="0" value="0.0033618313757905827" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="34.618313757905824" />
+          <attvalue for="1" value="K. HUTCHISON" />
+          <attvalue for="2" value="11.085494127371748" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1977,8 +1977,8 @@
       <node id="49307" label="49307">
         <attvalues>
           <attvalue for="0" value="0.0014174149495431439" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.174149495431438" />
+          <attvalue for="1" value="R. BENNETT" />
+          <attvalue for="2" value="5.252244848629432" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -1986,8 +1986,8 @@
       <node id="49308" label="49308">
         <attvalues>
           <attvalue for="0" value="0.004561887564919089" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="46.61887564919088" />
+          <attvalue for="1" value="P. MURRAY" />
+          <attvalue for="2" value="14.685662694757266" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -1995,8 +1995,8 @@
       <node id="49309" label="49309">
         <attvalues>
           <attvalue for="0" value="0.00404250964800525" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="41.425096480052495" />
+          <attvalue for="1" value="R. FEINGOLD" />
+          <attvalue for="2" value="13.127528944015749" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2004,8 +2004,8 @@
       <node id="49501" label="49501">
         <attvalues>
           <attvalue for="0" value="0.0009743312927306474" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.743312927306475" />
+          <attvalue for="1" value="J. ASHCROFT" />
+          <attvalue for="2" value="3.9229938781919422" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2013,8 +2013,8 @@
       <node id="49503" label="49503">
         <attvalues>
           <attvalue for="0" value="0.0013584842500288122" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.584842500288122" />
+          <attvalue for="1" value="F. THOMPSON" />
+          <attvalue for="2" value="5.075452750086437" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2022,8 +2022,8 @@
       <node id="49700" label="49700">
         <attvalues>
           <attvalue for="0" value="0.0013825050998280822" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.825050998280823" />
+          <attvalue for="1" value="J. SESSIONS" />
+          <attvalue for="2" value="5.147515299484247" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2031,8 +2031,8 @@
       <node id="49701" label="49701">
         <attvalues>
           <attvalue for="0" value="0.0009831789640605763" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.831789640605763" />
+          <attvalue for="1" value="J. CLELAND" />
+          <attvalue for="2" value="3.949536892181729" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2040,8 +2040,8 @@
       <node id="49703" label="49703">
         <attvalues>
           <attvalue for="0" value="0.0061061505668734304" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="62.061505668734306" />
+          <attvalue for="1" value="S. COLLINS" />
+          <attvalue for="2" value="19.31845170062029" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2049,8 +2049,8 @@
       <node id="49704" label="49704">
         <attvalues>
           <attvalue for="0" value="0.0014632758062158057" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.632758062158057" />
+          <attvalue for="1" value="C. HAGEL" />
+          <attvalue for="2" value="5.389827418647417" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2058,8 +2058,8 @@
       <node id="49706" label="49706">
         <attvalues>
           <attvalue for="0" value="0.003103009150268381" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="32.03009150268381" />
+          <attvalue for="1" value="M. ENZI" />
+          <attvalue for="2" value="10.309027450805143" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2067,8 +2067,8 @@
       <node id="49901" label="49901">
         <attvalues>
           <attvalue for="0" value="0.001452286814913901" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.52286814913901" />
+          <attvalue for="1" value="E. BAYH" />
+          <attvalue for="2" value="5.356860444741703" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2076,8 +2076,8 @@
       <node id="49903" label="49903">
         <attvalues>
           <attvalue for="0" value="0.0024131018681106883" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.131018681106884" />
+          <attvalue for="1" value="G. VOINOVICH" />
+          <attvalue for="2" value="8.239305604332065" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2085,8 +2085,8 @@
       <node id="3255" label="3255">
         <attvalues>
           <attvalue for="0" value="0.0005744467871036432" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.744467871036432" />
+          <attvalue for="1" value="H. FONG" />
+          <attvalue for="2" value="2.7233403613109295" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2094,8 +2094,8 @@
       <node id="8883" label="8883">
         <attvalues>
           <attvalue for="0" value="0.0013024514445478552" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.024514445478552" />
+          <attvalue for="1" value="J. STENNIS" />
+          <attvalue for="2" value="4.907354333643566" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2103,8 +2103,8 @@
       <node id="10802" label="10802">
         <attvalues>
           <attvalue for="0" value="0.000512466114612217" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.12466114612217" />
+          <attvalue for="1" value="H. BYRD" />
+          <attvalue for="2" value="2.537398343836651" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2112,8 +2112,8 @@
       <node id="14906" label="14906">
         <attvalues>
           <attvalue for="0" value="0.0007285644466247176" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.285644466247176" />
+          <attvalue for="1" value="M. MATTINGLY" />
+          <attvalue for="2" value="3.185693339874153" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2121,8 +2121,8 @@
       <node id="10630" label="10630">
         <attvalues>
           <attvalue for="0" value="0.0008872099584306748" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.872099584306747" />
+          <attvalue for="1" value="R. TAFT" />
+          <attvalue for="2" value="3.661629875292024" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2130,8 +2130,8 @@
       <node id="10736" label="10736">
         <attvalues>
           <attvalue for="0" value="0.001526684227206356" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.266842272063563" />
+          <attvalue for="1" value="W. HATHAWAY" />
+          <attvalue for="2" value="5.580052681619068" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2139,8 +2139,8 @@
       <node id="11201" label="11201">
         <attvalues>
           <attvalue for="0" value="0.0009772645134263362" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.772645134263362" />
+          <attvalue for="1" value="E. BROOKE" />
+          <attvalue for="2" value="3.9317935402790085" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2148,8 +2148,8 @@
       <node id="14516" label="14516">
         <attvalues>
           <attvalue for="0" value="0.0004524909058246842" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.524909058246842" />
+          <attvalue for="1" value="M. HUMPHREY" />
+          <attvalue for="2" value="2.3574727174740526" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2157,8 +2157,8 @@
       <node id="11048" label="11048">
         <attvalues>
           <attvalue for="0" value="0.000504241220927725" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.04241220927725" />
+          <attvalue for="1" value="W. SCOTT" />
+          <attvalue for="2" value="2.5127236627831753" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2166,8 +2166,8 @@
       <node id="13100" label="13100">
         <attvalues>
           <attvalue for="0" value="0.0008044417288700654" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.044417288700654" />
+          <attvalue for="1" value="J. BUCKLEY" />
+          <attvalue for="2" value="3.413325186610196" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2175,8 +2175,8 @@
       <node id="10571" label="10571">
         <attvalues>
           <attvalue for="0" value="0.0007027747294188029" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.027747294188028" />
+          <attvalue for="1" value="W. BROCK" />
+          <attvalue for="2" value="3.1083241882564088" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2184,8 +2184,8 @@
       <node id="12002" label="12002">
         <attvalues>
           <attvalue for="0" value="0.0009042195694956155" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.042195694956156" />
+          <attvalue for="1" value="J. BEALL" />
+          <attvalue for="2" value="3.7126587084868468" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2193,8 +2193,8 @@
       <node id="14913" label="14913">
         <attvalues>
           <attvalue for="0" value="0.0008635923275343046" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.635923275343046" />
+          <attvalue for="1" value="J. HECHT" />
+          <attvalue for="2" value="3.590776982602914" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2202,8 +2202,8 @@
       <node id="14651" label="14651">
         <attvalues>
           <attvalue for="0" value="0.0035444326948853404" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="36.4443269488534" />
+          <attvalue for="1" value="C. NELSON" />
+          <attvalue for="2" value="11.63329808465602" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2211,8 +2211,8 @@
       <node id="14809" label="14809">
         <attvalues>
           <attvalue for="0" value="0.0024404921668538058" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.40492166853806" />
+          <attvalue for="1" value="L. CRAIG" />
+          <attvalue for="2" value="8.321476500561417" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2220,8 +2220,8 @@
       <node id="14826" label="14826">
         <attvalues>
           <attvalue for="0" value="0.002078094221620924" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.780942216209237" />
+          <attvalue for="1" value="J. GREGG" />
+          <attvalue for="2" value="7.234282664862771" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2229,8 +2229,8 @@
       <node id="14852" label="14852">
         <attvalues>
           <attvalue for="0" value="0.0021460073310238066" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.460073310238066" />
+          <attvalue for="1" value="C. ROBERTS" />
+          <attvalue for="2" value="7.43802199307142" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2238,8 +2238,8 @@
       <node id="14909" label="14909">
         <attvalues>
           <attvalue for="0" value="0.0005449931893236935" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.4499318932369345" />
+          <attvalue for="1" value="W. RUDMAN" />
+          <attvalue for="2" value="2.6349795679710803" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2247,8 +2247,8 @@
       <node id="15037" label="15037">
         <attvalues>
           <attvalue for="0" value="0.0023397111079603754" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.397111079603754" />
+          <attvalue for="1" value="C. MACK" />
+          <attvalue for="2" value="8.019133323881126" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2256,8 +2256,8 @@
       <node id="15407" label="15407">
         <attvalues>
           <attvalue for="0" value="0.002758244666512545" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="28.582446665125453" />
+          <attvalue for="1" value="B. CAMPBELL" />
+          <attvalue for="2" value="9.274733999537636" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2265,8 +2265,8 @@
       <node id="15429" label="15429">
         <attvalues>
           <attvalue for="0" value="0.0024823475388217014" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.823475388217016" />
+          <attvalue for="1" value="J. KYL" />
+          <attvalue for="2" value="8.447042616465104" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2274,8 +2274,8 @@
       <node id="15633" label="15633">
         <attvalues>
           <attvalue for="0" value="0.0016943383157424963" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.94338315742496" />
+          <attvalue for="1" value="C. THOMAS" />
+          <attvalue for="2" value="6.083014947227489" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2283,8 +2283,8 @@
       <node id="29108" label="29108">
         <attvalues>
           <attvalue for="0" value="0.002044762119255404" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.447621192554042" />
+          <attvalue for="1" value="A. ALLARD" />
+          <attvalue for="2" value="7.134286357766213" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2292,8 +2292,8 @@
       <node id="29147" label="29147">
         <attvalues>
           <attvalue for="0" value="0.0024542415465195868" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.542415465195866" />
+          <attvalue for="1" value="B. SANDERS" />
+          <attvalue for="2" value="8.36272463955876" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2301,8 +2301,8 @@
       <node id="29367" label="29367">
         <attvalues>
           <attvalue for="0" value="0.0010323273952648083" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.323273952648083" />
+          <attvalue for="1" value="R. GRAMS" />
+          <attvalue for="2" value="4.096982185794425" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2310,8 +2310,8 @@
       <node id="29373" label="29373">
         <attvalues>
           <attvalue for="0" value="0.006535980024055433" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="66.35980024055434" />
+          <attvalue for="1" value="R. MENENDEZ" />
+          <attvalue for="2" value="20.6079400721663" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2319,8 +2319,8 @@
       <node id="29512" label="29512">
         <attvalues>
           <attvalue for="0" value="0.0009324315741382218" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.324315741382218" />
+          <attvalue for="1" value="S. CHAMBLISS" />
+          <attvalue for="2" value="3.7972947224146654" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2328,8 +2328,8 @@
       <node id="29537" label="29537">
         <attvalues>
           <attvalue for="0" value="0.0020973570380923554" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.973570380923555" />
+          <attvalue for="1" value="J. ENSIGN" />
+          <attvalue for="2" value="7.292071114277066" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2337,8 +2337,8 @@
       <node id="29566" label="29566">
         <attvalues>
           <attvalue for="0" value="0.0021659588184696154" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.659588184696155" />
+          <attvalue for="1" value="L. GRAHAM" />
+          <attvalue for="2" value="7.497876455408846" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2346,8 +2346,8 @@
       <node id="29732" label="29732">
         <attvalues>
           <attvalue for="0" value="0.004109334517685013" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="42.09334517685013" />
+          <attvalue for="1" value="D. STABENOW" />
+          <attvalue for="2" value="13.328003553055039" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2355,8 +2355,8 @@
       <node id="29906" label="29906">
         <attvalues>
           <attvalue for="0" value="0.0013828059729974604" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.828059729974603" />
+          <attvalue for="1" value="M. UDALL" />
+          <attvalue for="2" value="5.148417918992381" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2364,8 +2364,8 @@
       <node id="40101" label="40101">
         <attvalues>
           <attvalue for="0" value="0.0006010144303576143" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.010144303576143" />
+          <attvalue for="1" value="M. DAYTON" />
+          <attvalue for="2" value="2.803043291072843" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2373,8 +2373,8 @@
       <node id="40102" label="40102">
         <attvalues>
           <attvalue for="0" value="0.0005335757490290112" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.335757490290113" />
+          <attvalue for="1" value="J. CARNAHAN" />
+          <attvalue for="2" value="2.6007272470870335" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2382,8 +2382,8 @@
       <node id="40104" label="40104">
         <attvalues>
           <attvalue for="0" value="0.001822338905354949" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.22338905354949" />
+          <attvalue for="1" value="J. CORZINE" />
+          <attvalue for="2" value="6.467016716064847" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2391,8 +2391,8 @@
       <node id="40300" label="40300">
         <attvalues>
           <attvalue for="0" value="0.0037535374312525362" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="38.53537431252536" />
+          <attvalue for="1" value="L. MURKOWSKI" />
+          <attvalue for="2" value="12.260612293757609" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2400,8 +2400,8 @@
       <node id="40301" label="40301">
         <attvalues>
           <attvalue for="0" value="0.0016759356000526993" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.759356000526992" />
+          <attvalue for="1" value="M. PRYOR" />
+          <attvalue for="2" value="6.027806800158098" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2409,8 +2409,8 @@
       <node id="40303" label="40303">
         <attvalues>
           <attvalue for="0" value="0.0006698191444654241" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.698191444654241" />
+          <attvalue for="1" value="E. DOLE" />
+          <attvalue for="2" value="3.0094574333962725" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2418,8 +2418,8 @@
       <node id="40305" label="40305">
         <attvalues>
           <attvalue for="0" value="0.006575365832324307" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="66.75365832324307" />
+          <attvalue for="1" value="J. CORNYN" />
+          <attvalue for="2" value="20.726097496972923" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2427,8 +2427,8 @@
       <node id="40500" label="40500">
         <attvalues>
           <attvalue for="0" value="0.0012385378030211316" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.385378030211317" />
+          <attvalue for="1" value="K. SALAZAR" />
+          <attvalue for="2" value="4.715613409063395" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2437,7 +2437,7 @@
         <attvalues>
           <attvalue for="0" value="0.007527335081568111" />
           <attvalue for="1" value="A. KLOBUCHAR" />
-          <attvalue for="2" value="76.27335081568111" />
+          <attvalue for="2" value="23.582005244704334" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2445,8 +2445,8 @@
       <node id="40702" label="40702">
         <attvalues>
           <attvalue for="0" value="0.00451413796366081" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="46.1413796366081" />
+          <attvalue for="1" value="J. TESTER" />
+          <attvalue for="2" value="14.542413890982429" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2455,7 +2455,7 @@
         <attvalues>
           <attvalue for="0" value="0.007673391092514587" />
           <attvalue for="1" value="R. CASEY" />
-          <attvalue for="2" value="77.73391092514586" />
+          <attvalue for="2" value="24.020173277543762" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2463,8 +2463,8 @@
       <node id="40704" label="40704">
         <attvalues>
           <attvalue for="0" value="0.003659044825972056" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="37.59044825972056" />
+          <attvalue for="1" value="S. WHITEHOUSE" />
+          <attvalue for="2" value="11.977134477916168" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2472,8 +2472,8 @@
       <node id="40706" label="40706">
         <attvalues>
           <attvalue for="0" value="0.0007525117641246831" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.525117641246831" />
+          <attvalue for="1" value="J. WEBB" />
+          <attvalue for="2" value="3.2575352923740493" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2481,8 +2481,8 @@
       <node id="40900" label="40900">
         <attvalues>
           <attvalue for="0" value="0.0015353970308204052" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.353970308204055" />
+          <attvalue for="1" value="M. BEGICH" />
+          <attvalue for="2" value="5.6061910924612155" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2490,8 +2490,8 @@
       <node id="40901" label="40901">
         <attvalues>
           <attvalue for="0" value="0.0004338882417802698" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.338882417802698" />
+          <attvalue for="1" value="E. KAUFMAN" />
+          <attvalue for="2" value="2.3016647253408093" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2499,8 +2499,8 @@
       <node id="40904" label="40904">
         <attvalues>
           <attvalue for="0" value="0.0017851220958495359" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.851220958495357" />
+          <attvalue for="1" value="A. FRANKEN" />
+          <attvalue for="2" value="6.355366287548607" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2508,8 +2508,8 @@
       <node id="40906" label="40906">
         <attvalues>
           <attvalue for="0" value="0.0039117084374777926" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="40.117084374777924" />
+          <attvalue for="1" value="J. SHAHEEN" />
+          <attvalue for="2" value="12.735125312433377" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2517,8 +2517,8 @@
       <node id="40907" label="40907">
         <attvalues>
           <attvalue for="0" value="0.0009497859852529821" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.497859852529821" />
+          <attvalue for="1" value="K. HAGAN" />
+          <attvalue for="2" value="3.8493579557589466" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2526,8 +2526,8 @@
       <node id="40908" label="40908">
         <attvalues>
           <attvalue for="0" value="0.004164698006733003" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="42.64698006733003" />
+          <attvalue for="1" value="J. MERKLEY" />
+          <attvalue for="2" value="13.494094020199007" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2535,8 +2535,8 @@
       <node id="40909" label="40909">
         <attvalues>
           <attvalue for="0" value="0.0030618564664291136" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.618564664291135" />
+          <attvalue for="1" value="M. WARNER" />
+          <attvalue for="2" value="10.18556939928734" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2544,8 +2544,8 @@
       <node id="40916" label="40916">
         <attvalues>
           <attvalue for="0" value="0.003268739548873698" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="33.68739548873698" />
+          <attvalue for="1" value="C. COONS" />
+          <attvalue for="2" value="10.806218646621094" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2553,8 +2553,8 @@
       <node id="41106" label="41106">
         <attvalues>
           <attvalue for="0" value="0.0012048567970978803" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.048567970978803" />
+          <attvalue for="1" value="K. AYOTTE" />
+          <attvalue for="2" value="4.6145703912936415" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2562,8 +2562,8 @@
       <node id="49303" label="49303">
         <attvalues>
           <attvalue for="0" value="0.000809806221115834" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.09806221115834" />
+          <attvalue for="1" value="C. MOSELEY BRAUN" />
+          <attvalue for="2" value="3.429418663347502" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2571,8 +2571,8 @@
       <node id="49500" label="49500">
         <attvalues>
           <attvalue for="0" value="0.0016965061531303074" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.965061531303075" />
+          <attvalue for="1" value="S. ABRAHAM" />
+          <attvalue for="2" value="6.089518459390923" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2580,8 +2580,8 @@
       <node id="49502" label="49502">
         <attvalues>
           <attvalue for="0" value="0.002469886846236142" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.69886846236142" />
+          <attvalue for="1" value="W. FRIST" />
+          <attvalue for="2" value="8.409660538708426" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2589,8 +2589,8 @@
       <node id="49702" label="49702">
         <attvalues>
           <attvalue for="0" value="0.0029812120154751294" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="30.812120154751295" />
+          <attvalue for="1" value="M. LANDRIEU" />
+          <attvalue for="2" value="9.943636046425388" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2598,8 +2598,8 @@
       <node id="49705" label="49705">
         <attvalues>
           <attvalue for="0" value="0.003325171207647915" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="34.25171207647915" />
+          <attvalue for="1" value="G. SMITH" />
+          <attvalue for="2" value="10.975513622943744" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2607,8 +2607,8 @@
       <node id="49900" label="49900">
         <attvalues>
           <attvalue for="0" value="0.0007881669836061114" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.881669836061114" />
+          <attvalue for="1" value="P. FITZGERALD" />
+          <attvalue for="2" value="3.364500950818334" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2616,8 +2616,8 @@
       <node id="7229" label="7229">
         <attvalues>
           <attvalue for="0" value="0.0007843778641285821" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.843778641285821" />
+          <attvalue for="1" value="J. PASTORE" />
+          <attvalue for="2" value="3.3531335923857464" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2625,8 +2625,8 @@
       <node id="5967" label="5967">
         <attvalues>
           <attvalue for="0" value="0.0006288318721097738" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.288318721097737" />
+          <attvalue for="1" value="M. MANSFIELD" />
+          <attvalue for="2" value="2.8864956163293214" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2634,8 +2634,8 @@
       <node id="49302" label="49302">
         <attvalues>
           <attvalue for="0" value="0.000551879667724297" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.51879667724297" />
+          <attvalue for="1" value="D. KEMPTHORNE" />
+          <attvalue for="2" value="2.655639003172891" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2643,8 +2643,8 @@
       <node id="49304" label="49304">
         <attvalues>
           <attvalue for="0" value="0.0009095290480095057" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.095290480095057" />
+          <attvalue for="1" value="D. FAIRCLOTH" />
+          <attvalue for="2" value="3.728587144028517" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2652,8 +2652,8 @@
       <node id="15505" label="15505">
         <attvalues>
           <attvalue for="0" value="0.0004766554425443705" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.766554425443705" />
+          <attvalue for="1" value="D. KARNES" />
+          <attvalue for="2" value="2.429966327633111" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2661,8 +2661,8 @@
       <node id="49100" label="49100">
         <attvalues>
           <attvalue for="0" value="0.0006231318328701163" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.231318328701163" />
+          <attvalue for="1" value="J. SEYMOUR" />
+          <attvalue for="2" value="2.8693954986103485" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2670,8 +2670,8 @@
       <node id="10574" label="10574">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="J. BROYHILL" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2679,8 +2679,8 @@
       <node id="14515" label="14515">
         <attvalues>
           <attvalue for="0" value="0.0003867004575224676" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.867004575224676" />
+          <attvalue for="1" value="P. HATFIELD" />
+          <attvalue for="2" value="2.1601013725674028" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2688,8 +2688,8 @@
       <node id="29909" label="29909">
         <attvalues>
           <attvalue for="0" value="0.0015412905865779733" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.412905865779734" />
+          <attvalue for="1" value="J. ISAKSON" />
+          <attvalue for="2" value="5.62387175973392" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2697,8 +2697,8 @@
       <node id="49902" label="49902">
         <attvalues>
           <attvalue for="0" value="0.0009703296436976625" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.703296436976625" />
+          <attvalue for="1" value="J. EDWARDS" />
+          <attvalue for="2" value="3.9109889310929873" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2706,8 +2706,8 @@
       <node id="49905" label="49905">
         <attvalues>
           <attvalue for="0" value="0.0007353948535249459" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.353948535249458" />
+          <attvalue for="1" value="L. CHAFEE" />
+          <attvalue for="2" value="3.2061845605748376" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2715,8 +2715,8 @@
       <node id="29345" label="29345">
         <attvalues>
           <attvalue for="0" value="0.0027798055089494227" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="28.798055089494227" />
+          <attvalue for="1" value="M. CRAPO" />
+          <attvalue for="2" value="9.339416526848268" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2724,8 +2724,8 @@
       <node id="29555" label="29555">
         <attvalues>
           <attvalue for="0" value="0.0013935633818571468" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.935633818571468" />
+          <attvalue for="1" value="T. COBURN" />
+          <attvalue for="2" value="5.1806901455714405" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2733,8 +2733,8 @@
       <node id="29918" label="29918">
         <attvalues>
           <attvalue for="0" value="0.002876541172928504" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="29.765411729285038" />
+          <attvalue for="1" value="D. VITTER" />
+          <attvalue for="2" value="9.629623518785511" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2742,8 +2742,8 @@
       <node id="40501" label="40501">
         <attvalues>
           <attvalue for="0" value="0.0010177827480253058" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.177827480253058" />
+          <attvalue for="1" value="M. MARTINEZ" />
+          <attvalue for="2" value="4.053348244075917" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2751,8 +2751,8 @@
       <node id="40701" label="40701">
         <attvalues>
           <attvalue for="0" value="0.0018612457400183952" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.612457400183953" />
+          <attvalue for="1" value="C. McCASKILL" />
+          <attvalue for="2" value="6.583737220055186" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2760,8 +2760,8 @@
       <node id="40705" label="40705">
         <attvalues>
           <attvalue for="0" value="0.0009020662373631584" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.020662373631584" />
+          <attvalue for="1" value="R. CORKER" />
+          <attvalue for="2" value="3.706198712089475" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2769,8 +2769,8 @@
       <node id="40707" label="40707">
         <attvalues>
           <attvalue for="0" value="0.0030640657133585592" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.64065713358559" />
+          <attvalue for="1" value="J. BARRASSO" />
+          <attvalue for="2" value="10.192197140075677" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2778,8 +2778,8 @@
       <node id="14247" label="14247">
         <attvalues>
           <attvalue for="0" value="0.0003992680875054128" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.992680875054128" />
+          <attvalue for="1" value="R. KRUEGER" />
+          <attvalue for="2" value="2.1978042625162386" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2787,8 +2787,8 @@
       <node id="49904" label="49904">
         <attvalues>
           <attvalue for="0" value="0.0005358676259928286" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.358676259928286" />
+          <attvalue for="1" value="Z. MILLER" />
+          <attvalue for="2" value="2.607602877978486" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2796,8 +2796,8 @@
       <node id="20100" label="20100">
         <attvalues>
           <attvalue for="0" value="0.0019258470755479566" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.258470755479568" />
+          <attvalue for="1" value="J. FLAKE" />
+          <attvalue for="2" value="6.77754122664387" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2805,8 +2805,8 @@
       <node id="20101" label="20101">
         <attvalues>
           <attvalue for="0" value="0.0014189715929798868" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.189715929798867" />
+          <attvalue for="1" value="J. BOOZMAN" />
+          <attvalue for="2" value="5.25691477893966" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2814,8 +2814,8 @@
       <node id="20115" label="20115">
         <attvalues>
           <attvalue for="0" value="0.0015350496784056896" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="16.350496784056894" />
+          <attvalue for="1" value="M. KIRK" />
+          <attvalue for="2" value="5.605149035217069" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2823,8 +2823,8 @@
       <node id="20146" label="20146">
         <attvalues>
           <attvalue for="0" value="0.0014306195391363926" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.306195391363925" />
+          <attvalue for="1" value="S. CAPITO" />
+          <attvalue for="2" value="5.2918586174091775" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2832,8 +2832,8 @@
       <node id="20713" label="20713">
         <attvalues>
           <attvalue for="0" value="0.002479207306230584" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.79207306230584" />
+          <attvalue for="1" value="M. HIRONO" />
+          <attvalue for="2" value="8.437621918691752" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2841,8 +2841,8 @@
       <node id="20717" label="20717">
         <attvalues>
           <attvalue for="0" value="0.0009494224816026463" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.494224816026463" />
+          <attvalue for="1" value="J. DONNELLY" />
+          <attvalue for="2" value="3.848267444807939" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2850,8 +2850,8 @@
       <node id="20730" label="20730">
         <attvalues>
           <attvalue for="0" value="0.0021999008410529233" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.999008410529232" />
+          <attvalue for="1" value="D. HELLER" />
+          <attvalue for="2" value="7.59970252315877" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2859,8 +2859,8 @@
       <node id="20919" label="20919">
         <attvalues>
           <attvalue for="0" value="0.003083412818017466" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.83412818017466" />
+          <attvalue for="1" value="B. CASSIDY" />
+          <attvalue for="2" value="10.250238454052399" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2868,8 +2868,8 @@
       <node id="20923" label="20923">
         <attvalues>
           <attvalue for="0" value="0.004504017744178036" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="46.04017744178036" />
+          <attvalue for="1" value="G. PETERS" />
+          <attvalue for="2" value="14.512053232534107" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2877,8 +2877,8 @@
       <node id="21166" label="21166">
         <attvalues>
           <attvalue for="0" value="0.0019765580506077088" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.76558050607709" />
+          <attvalue for="1" value="J. LANKFORD" />
+          <attvalue for="2" value="6.929674151823126" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2886,8 +2886,8 @@
       <node id="21301" label="21301">
         <attvalues>
           <attvalue for="0" value="0.0024899089747230487" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.899089747230487" />
+          <attvalue for="1" value="T. COTTON" />
+          <attvalue for="2" value="8.469726924169146" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2895,8 +2895,8 @@
       <node id="29369" label="29369">
         <attvalues>
           <attvalue for="0" value="0.0007056396554921932" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.056396554921932" />
+          <attvalue for="1" value="J. TALENT" />
+          <attvalue for="2" value="3.1169189664765793" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2904,8 +2904,8 @@
       <node id="29386" label="29386">
         <attvalues>
           <attvalue for="0" value="0.003541183878757114" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="36.41183878757114" />
+          <attvalue for="1" value="R. PORTMAN" />
+          <attvalue for="2" value="11.623551636271342" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2913,8 +2913,8 @@
       <node id="29534" label="29534">
         <attvalues>
           <attvalue for="0" value="0.0026952730853206913" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="27.952730853206912" />
+          <attvalue for="1" value="R. WICKER" />
+          <attvalue for="2" value="9.085819255962074" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2922,8 +2922,8 @@
       <node id="29722" label="29722">
         <attvalues>
           <attvalue for="0" value="0.002411545508760468" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="25.11545508760468" />
+          <attvalue for="1" value="J. MORAN" />
+          <attvalue for="2" value="8.234636526281404" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2931,8 +2931,8 @@
       <node id="29735" label="29735">
         <attvalues>
           <attvalue for="0" value="0.0016739338957267066" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.739338957267066" />
+          <attvalue for="1" value="R. BLUNT" />
+          <attvalue for="2" value="6.02180168718012" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2940,8 +2940,8 @@
       <node id="29935" label="29935">
         <attvalues>
           <attvalue for="0" value="0.0018573907143442155" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.573907143442156" />
+          <attvalue for="1" value="P. TOOMEY" />
+          <attvalue for="2" value="6.572172143032646" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2949,8 +2949,8 @@
       <node id="40902" label="40902">
         <attvalues>
           <attvalue for="0" value="0.0017917523414329422" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.917523414329423" />
+          <attvalue for="1" value="J. RISCH" />
+          <attvalue for="2" value="6.3752570242988265" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2958,8 +2958,8 @@
       <node id="40905" label="40905">
         <attvalues>
           <attvalue for="0" value="0.0008011041208238138" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.011041208238138" />
+          <attvalue for="1" value="M. JOHANNS" />
+          <attvalue for="2" value="3.4033123624714414" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2967,8 +2967,8 @@
       <node id="40911" label="40911">
         <attvalues>
           <attvalue for="0" value="0.0004001946170192766" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.001946170192766" />
+          <attvalue for="1" value="G. LEMIEUX" />
+          <attvalue for="2" value="2.2005838510578295" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -2976,8 +2976,8 @@
       <node id="40915" label="40915">
         <attvalues>
           <attvalue for="0" value="0.0022080464800497144" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="23.080464800497143" />
+          <attvalue for="1" value="J. MANCHIN" />
+          <attvalue for="2" value="7.624139440149143" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2985,8 +2985,8 @@
       <node id="41101" label="41101">
         <attvalues>
           <attvalue for="0" value="0.0049393466800271854" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="50.39346680027185" />
+          <attvalue for="1" value="R. BLUMENTHAL" />
+          <attvalue for="2" value="15.818040040081556" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -2994,8 +2994,8 @@
       <node id="41102" label="41102">
         <attvalues>
           <attvalue for="0" value="0.006361008441979772" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="64.61008441979772" />
+          <attvalue for="1" value="M. RUBIO" />
+          <attvalue for="2" value="20.083025325939314" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3003,8 +3003,8 @@
       <node id="41104" label="41104">
         <attvalues>
           <attvalue for="0" value="0.0021769629405761644" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.769629405761645" />
+          <attvalue for="1" value="R. PAUL" />
+          <attvalue for="2" value="7.530888821728493" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3012,8 +3012,8 @@
       <node id="41107" label="41107">
         <attvalues>
           <attvalue for="0" value="0.0017224102939819013" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.224102939819012" />
+          <attvalue for="1" value="J. HOEVEN" />
+          <attvalue for="2" value="6.167230881945704" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3021,8 +3021,8 @@
       <node id="41110" label="41110">
         <attvalues>
           <attvalue for="0" value="0.004089732941687434" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="41.89732941687434" />
+          <attvalue for="1" value="M. LEE" />
+          <attvalue for="2" value="13.269198825062302" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3030,8 +3030,8 @@
       <node id="41111" label="41111">
         <attvalues>
           <attvalue for="0" value="0.0016987582659778355" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.987582659778354" />
+          <attvalue for="1" value="R. JOHNSON" />
+          <attvalue for="2" value="6.096274797933507" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3039,8 +3039,8 @@
       <node id="41112" label="41112">
         <attvalues>
           <attvalue for="0" value="0.003226564266615097" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="33.265642666150974" />
+          <attvalue for="1" value="B. SCHATZ" />
+          <attvalue for="2" value="10.679692799845292" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3048,8 +3048,8 @@
       <node id="41302" label="41302">
         <attvalues>
           <attvalue for="0" value="0.001957879679391796" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.57879679391796" />
+          <attvalue for="1" value="D. FISCHER" />
+          <attvalue for="2" value="6.873639038175388" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3057,8 +3057,8 @@
       <node id="41303" label="41303">
         <attvalues>
           <attvalue for="0" value="0.0009996483659931922" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.996483659931922" />
+          <attvalue for="1" value="M. HEITKAMP" />
+          <attvalue for="2" value="3.998945097979577" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3066,8 +3066,8 @@
       <node id="41304" label="41304">
         <attvalues>
           <attvalue for="0" value="0.0039306340626903144" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="40.30634062690314" />
+          <attvalue for="1" value="R. CRUZ" />
+          <attvalue for="2" value="12.791902188070944" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3075,8 +3075,8 @@
       <node id="41305" label="41305">
         <attvalues>
           <attvalue for="0" value="0.0021542387815514223" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="22.54238781551422" />
+          <attvalue for="1" value="T. KAINE" />
+          <attvalue for="2" value="7.462716344654266" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3084,8 +3084,8 @@
       <node id="41308" label="41308">
         <attvalues>
           <attvalue for="0" value="0.00428411902945378" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="43.8411902945378" />
+          <attvalue for="1" value="C. BOOKER" />
+          <attvalue for="2" value="13.85235708836134" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3093,8 +3093,8 @@
       <node id="41501" label="41501">
         <attvalues>
           <attvalue for="0" value="0.0007222440445237534" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.222440445237535" />
+          <attvalue for="1" value="D. PERDUE" />
+          <attvalue for="2" value="3.1667321335712604" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3102,8 +3102,8 @@
       <node id="41703" label="41703">
         <attvalues>
           <attvalue for="0" value="0.0016973181343853162" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.973181343853163" />
+          <attvalue for="1" value="J. KENNEDY" />
+          <attvalue for="2" value="6.091954403155949" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3111,8 +3111,8 @@
       <node id="20930" label="20930">
         <attvalues>
           <attvalue for="0" value="0.002327299729379583" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.27299729379583" />
+          <attvalue for="1" value="M. HEINRICH" />
+          <attvalue for="2" value="7.981899188138748" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3120,8 +3120,8 @@
       <node id="14435" label="14435">
         <attvalues>
           <attvalue for="0" value="0.0046232630315158115" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="47.23263031515812" />
+          <attvalue for="1" value="E. MARKEY" />
+          <attvalue for="2" value="14.869789094547434" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3129,8 +3129,8 @@
       <node id="20330" label="20330">
         <attvalues>
           <attvalue for="0" value="0.0020108703356675915" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.108703356675914" />
+          <attvalue for="1" value="C. VAN HOLLEN" />
+          <attvalue for="2" value="7.0326110070027745" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3138,8 +3138,8 @@
       <node id="20351" label="20351">
         <attvalues>
           <attvalue for="0" value="0.0019779834848229058" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.779834848229058" />
+          <attvalue for="1" value="M. BLACKBURN" />
+          <attvalue for="2" value="6.933950454468717" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3147,8 +3147,8 @@
       <node id="20932" label="20932">
         <attvalues>
           <attvalue for="0" value="0.0014571412108909875" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.571412108909875" />
+          <attvalue for="1" value="B. LUJÁN" />
+          <attvalue for="2" value="5.371423632672963" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3156,8 +3156,8 @@
       <node id="21112" label="21112">
         <attvalues>
           <attvalue for="0" value="0.0016874322192270432" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="17.874322192270434" />
+          <attvalue for="1" value="C. GARDNER" />
+          <attvalue for="2" value="6.06229665768113" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3165,8 +3165,8 @@
       <node id="21133" label="21133">
         <attvalues>
           <attvalue for="0" value="0.0018659609291646836" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="19.659609291646838" />
+          <attvalue for="1" value="T. YOUNG" />
+          <attvalue for="2" value="6.597882787494051" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3174,8 +3174,8 @@
       <node id="21173" label="21173">
         <attvalues>
           <attvalue for="0" value="0.001948323120455564" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.48323120455564" />
+          <attvalue for="1" value="T. SCOTT" />
+          <attvalue for="2" value="6.844969361366692" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3183,8 +3183,8 @@
       <node id="21300" label="21300">
         <attvalues>
           <attvalue for="0" value="0.0009953919087359348" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.953919087359347" />
+          <attvalue for="1" value="K. SINEMA" />
+          <attvalue for="2" value="3.9861757262078044" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3192,8 +3192,8 @@
       <node id="21325" label="21325">
         <attvalues>
           <attvalue for="0" value="0.0027658457219508106" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="28.658457219508104" />
+          <attvalue for="1" value="T. DUCKWORTH" />
+          <attvalue for="2" value="9.297537165852432" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3201,8 +3201,8 @@
       <node id="21338" label="21338">
         <attvalues>
           <attvalue for="0" value="0.0025886282101073" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="26.886282101073" />
+          <attvalue for="1" value="S. DAINES" />
+          <attvalue for="2" value="8.7658846303219" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3210,8 +3210,8 @@
       <node id="21350" label="21350">
         <attvalues>
           <attvalue for="0" value="0.0008104839554959253" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.104839554959254" />
+          <attvalue for="1" value="K. CRAMER" />
+          <attvalue for="2" value="3.431451866487776" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3219,8 +3219,8 @@
       <node id="21355" label="21355">
         <attvalues>
           <attvalue for="0" value="0.0005341836723913962" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.3418367239139615" />
+          <attvalue for="1" value="M. MULLIN" />
+          <attvalue for="2" value="2.6025510171741884" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3228,8 +3228,8 @@
       <node id="21708" label="21708">
         <attvalues>
           <attvalue for="0" value="0.0006643810381970841" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.643810381970841" />
+          <attvalue for="1" value="T. BUDD" />
+          <attvalue for="2" value="2.993143114591252" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3237,8 +3237,8 @@
       <node id="21734" label="21734">
         <attvalues>
           <attvalue for="0" value="0.001395502194681743" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.95502194681743" />
+          <attvalue for="1" value="R. MARSHALL" />
+          <attvalue for="2" value="5.186506584045229" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3246,8 +3246,8 @@
       <node id="21743" label="21743">
         <attvalues>
           <attvalue for="0" value="0.0019210372660834745" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="20.210372660834746" />
+          <attvalue for="1" value="J. ROSEN" />
+          <attvalue for="2" value="6.763111798250423" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3255,8 +3255,8 @@
       <node id="29940" label="29940">
         <attvalues>
           <attvalue for="0" value="0.003124929916471677" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="32.249299164716774" />
+          <attvalue for="1" value="T. BALDWIN" />
+          <attvalue for="2" value="10.374789749415031" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3264,8 +3264,8 @@
       <node id="41300" label="41300">
         <attvalues>
           <attvalue for="0" value="0.0014968116036412449" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="15.968116036412448" />
+          <attvalue for="1" value="A. KING" />
+          <attvalue for="2" value="5.490434810923735" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3273,8 +3273,8 @@
       <node id="41301" label="41301">
         <attvalues>
           <attvalue for="0" value="0.003833122671323136" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="39.33122671323136" />
+          <attvalue for="1" value="E. WARREN" />
+          <attvalue for="2" value="12.499368013969407" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3282,8 +3282,8 @@
       <node id="41500" label="41500">
         <attvalues>
           <attvalue for="0" value="0.0020637114820293272" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.637114820293274" />
+          <attvalue for="1" value="D. SULLIVAN" />
+          <attvalue for="2" value="7.191134446087982" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3291,8 +3291,8 @@
       <node id="41502" label="41502">
         <attvalues>
           <attvalue for="0" value="0.002327568614788945" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.27568614788945" />
+          <attvalue for="1" value="J. ERNST" />
+          <attvalue for="2" value="7.982705844366834" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3300,8 +3300,8 @@
       <node id="41503" label="41503">
         <attvalues>
           <attvalue for="0" value="0.000588263788767938" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.88263788767938" />
+          <attvalue for="1" value="B. SASSE" />
+          <attvalue for="2" value="2.7647913663038137" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3309,8 +3309,8 @@
       <node id="41504" label="41504">
         <attvalues>
           <attvalue for="0" value="0.0017439497228428893" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.439497228428895" />
+          <attvalue for="1" value="T. TILLIS" />
+          <attvalue for="2" value="6.231849168528668" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3318,8 +3318,8 @@
       <node id="41505" label="41505">
         <attvalues>
           <attvalue for="0" value="0.0017932064841283256" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.932064841283257" />
+          <attvalue for="1" value="M. ROUNDS" />
+          <attvalue for="2" value="6.3796194523849765" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3327,8 +3327,8 @@
       <node id="41700" label="41700">
         <attvalues>
           <attvalue for="0" value="0.0030687541834682943" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="31.687541834682943" />
+          <attvalue for="1" value="C. CORTEZ MASTO" />
+          <attvalue for="2" value="10.206262550404883" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3336,8 +3336,8 @@
       <node id="41702" label="41702">
         <attvalues>
           <attvalue for="0" value="0.0023994159964614106" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.994159964614106" />
+          <attvalue for="1" value="M. HASSAN" />
+          <attvalue for="2" value="8.198247989384232" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3345,8 +3345,8 @@
       <node id="41706" label="41706">
         <attvalues>
           <attvalue for="0" value="0.002334133896814" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.34133896814" />
+          <attvalue for="1" value="T. SMITH" />
+          <attvalue for="2" value="8.002401690442" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3354,8 +3354,8 @@
       <node id="41707" label="41707">
         <attvalues>
           <attvalue for="0" value="0.0006480707268283818" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.480707268283818" />
+          <attvalue for="1" value="C. HYDE-SMITH" />
+          <attvalue for="2" value="2.9442121804851453" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3363,8 +3363,8 @@
       <node id="41900" label="41900">
         <attvalues>
           <attvalue for="0" value="0.002377486002719874" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="24.77486002719874" />
+          <attvalue for="1" value="M. BRAUN" />
+          <attvalue for="2" value="8.132458008159622" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3372,8 +3372,8 @@
       <node id="41901" label="41901">
         <attvalues>
           <attvalue for="0" value="0.0008676082344952147" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.676082344952146" />
+          <attvalue for="1" value="J. HAWLEY" />
+          <attvalue for="2" value="3.602824703485644" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3381,8 +3381,8 @@
       <node id="41903" label="41903">
         <attvalues>
           <attvalue for="0" value="0.0020409933258770043" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.409933258770042" />
+          <attvalue for="1" value="R. SCOTT" />
+          <attvalue for="2" value="7.1229799776310125" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3390,8 +3390,8 @@
       <node id="41905" label="41905">
         <attvalues>
           <attvalue for="0" value="0.001054748033455818" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.54748033455818" />
+          <attvalue for="1" value="M. KELLY" />
+          <attvalue for="2" value="4.164244100367455" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3399,8 +3399,8 @@
       <node id="42100" label="42100">
         <attvalues>
           <attvalue for="0" value="0.000743381308504437" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.43381308504437" />
+          <attvalue for="1" value="W. HAGERTY" />
+          <attvalue for="2" value="3.2301439255133113" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3408,8 +3408,8 @@
       <node id="42103" label="42103">
         <attvalues>
           <attvalue for="0" value="0.0012696776760710898" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="13.696776760710899" />
+          <attvalue for="1" value="T. OSSOFF" />
+          <attvalue for="2" value="4.809033028213269" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3417,8 +3417,8 @@
       <node id="42105" label="42105">
         <attvalues>
           <attvalue for="0" value="0.0011282675327393755" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.282675327393754" />
+          <attvalue for="1" value="R. WARNOCK" />
+          <attvalue for="2" value="4.384802598218126" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3426,8 +3426,8 @@
       <node id="42300" label="42300">
         <attvalues>
           <attvalue for="0" value="0.0005422684162254662" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.422684162254662" />
+          <attvalue for="1" value="K. BRITT" />
+          <attvalue for="2" value="2.6268052486763986" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3435,8 +3435,8 @@
       <node id="42302" label="42302">
         <attvalues>
           <attvalue for="0" value="0.0005526718653947073" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.526718653947073" />
+          <attvalue for="1" value="J. RICKETTS" />
+          <attvalue for="2" value="2.658015596184122" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3444,8 +3444,8 @@
       <node id="20707" label="20707">
         <attvalues>
           <attvalue for="0" value="0.0020150314587648903" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="21.150314587648904" />
+          <attvalue for="1" value="C. MURPHY" />
+          <attvalue for="2" value="7.045094376294671" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3453,8 +3453,8 @@
       <node id="20750" label="20750">
         <attvalues>
           <attvalue for="0" value="0.0011002884041953248" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="12.002884041953248" />
+          <attvalue for="1" value="P. WELCH" />
+          <attvalue for="2" value="4.3008652125859745" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3462,8 +3462,8 @@
       <node id="21501" label="21501">
         <attvalues>
           <attvalue for="0" value="0.0007482358094749497" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.482358094749497" />
+          <attvalue for="1" value="M. McSALLY" />
+          <attvalue for="2" value="3.2447074284248494" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3471,8 +3471,8 @@
       <node id="41309" label="41309">
         <attvalues>
           <attvalue for="0" value="0.0004951010972030775" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.951010972030775" />
+          <attvalue for="1" value="J. WALSH" />
+          <attvalue for="2" value="2.4853032916092324" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3480,8 +3480,8 @@
       <node id="41701" label="41701">
         <attvalues>
           <attvalue for="0" value="0.0013496340254015831" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="14.49634025401583" />
+          <attvalue for="1" value="K. HARRIS" />
+          <attvalue for="2" value="5.048902076204749" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3489,8 +3489,8 @@
       <node id="42104" label="42104">
         <attvalues>
           <attvalue for="0" value="0.0017971147159742751" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="18.971147159742753" />
+          <attvalue for="1" value="A. PADILLA" />
+          <attvalue for="2" value="6.391344147922825" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3498,8 +3498,8 @@
       <node id="42305" label="42305">
         <attvalues>
           <attvalue for="0" value="0.0006376457579630817" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.3764575796308165" />
+          <attvalue for="1" value="L. BUTLER" />
+          <attvalue for="2" value="2.912937273889245" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3507,8 +3507,8 @@
       <node id="40913" label="40913">
         <attvalues>
           <attvalue for="0" value="0.0007200875594543181" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.20087559454318" />
+          <attvalue for="1" value="S. BROWN" />
+          <attvalue for="2" value="3.160262678362954" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3516,8 +3516,8 @@
       <node id="14514" label="14514">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="K. HODGES" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3525,8 +3525,8 @@
       <node id="14517" label="14517">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="M. ALLEN" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3534,8 +3534,8 @@
       <node id="41705" label="41705">
         <attvalues>
           <attvalue for="0" value="0.0007366452011932818" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="8.366452011932818" />
+          <attvalue for="1" value="G. JONES" />
+          <attvalue for="2" value="3.2099356035798454" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3543,8 +3543,8 @@
       <node id="42102" label="42102">
         <attvalues>
           <attvalue for="0" value="0.000678355728423965" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.78355728423965" />
+          <attvalue for="1" value="T. TUBERVILLE" />
+          <attvalue for="2" value="3.035067185271895" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3552,8 +3552,8 @@
       <node id="40903" label="40903">
         <attvalues>
           <attvalue for="0" value="0.0004082095695311013" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.082095695311013" />
+          <attvalue for="1" value="R. BURRIS" />
+          <attvalue for="2" value="2.224628708593304" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3561,8 +3561,8 @@
       <node id="20953" label="20953">
         <attvalues>
           <attvalue for="0" value="0.000891810382278244" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="9.91810382278244" />
+          <attvalue for="1" value="C. LUMMIS" />
+          <attvalue for="2" value="3.675431146834732" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3570,8 +3570,8 @@
       <node id="42101" label="42101">
         <attvalues>
           <attvalue for="0" value="0.001034525755732605" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="11.34525755732605" />
+          <attvalue for="1" value="J. HICKENLOOPER" />
+          <attvalue for="2" value="4.1035772671978155" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3579,8 +3579,8 @@
       <node id="42303" label="42303">
         <attvalues>
           <attvalue for="0" value="0.0005471815317522865" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.471815317522865" />
+          <attvalue for="1" value="E. SCHMITT" />
+          <attvalue for="2" value="2.6415445952568595" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3588,8 +3588,8 @@
       <node id="14911" label="14911">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="N. BRADY" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3597,8 +3597,8 @@
       <node id="42304" label="42304">
         <attvalues>
           <attvalue for="0" value="0.0006212719818333376" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="7.212719818333376" />
+          <attvalue for="1" value="J. VANCE" />
+          <attvalue for="2" value="2.8638159455000127" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3606,8 +3606,8 @@
       <node id="41704" label="41704">
         <attvalues>
           <attvalue for="0" value="0.00040837155345621715" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.083715534562171" />
+          <attvalue for="1" value="L. STRANGE" />
+          <attvalue for="2" value="2.2251146603686514" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3615,8 +3615,8 @@
       <node id="41904" label="41904">
         <attvalues>
           <attvalue for="0" value="0.0005680682385905082" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="6.680682385905081" />
+          <attvalue for="1" value="K. LOEFFLER" />
+          <attvalue for="2" value="2.7042047157715245" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3624,8 +3624,8 @@
       <node id="41902" label="41902">
         <attvalues>
           <attvalue for="0" value="0.0009255674099799915" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="10.255674099799915" />
+          <attvalue for="1" value="W. ROMNEY" />
+          <attvalue for="2" value="3.776702229939975" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3633,8 +3633,8 @@
       <node id="21937" label="21937">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="A. KIM" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3642,8 +3642,8 @@
       <node id="40912" label="40912">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="P. KIRK" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3651,8 +3651,8 @@
       <node id="40914" label="40914">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="C. GOODWIN" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3660,8 +3660,8 @@
       <node id="41306" label="41306">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="W. COWAN" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3669,8 +3669,8 @@
       <node id="41307" label="41307">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="J. CHIESA" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
@@ -3678,8 +3678,8 @@
       <node id="42306" label="42306">
         <attvalues>
           <attvalue for="0" value="0.00040002862626457045" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="5.000286262645704" />
+          <attvalue for="1" value="G. HELMY" />
+          <attvalue for="2" value="2.200085878793711" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3687,8 +3687,8 @@
       <node id="49103" label="49103">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="J. BURDICK" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3696,8 +3696,8 @@
       <node id="49305" label="49305">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="H. MATHEWS" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="D" />
           <attvalue for="4" value="blue" />
         </attvalues>
@@ -3705,8 +3705,8 @@
       <node id="49504" label="49504">
         <attvalues>
           <attvalue for="0" value="0.0003649635036496351" />
-          <attvalue for="1" value=" " />
-          <attvalue for="2" value="4.649635036496351" />
+          <attvalue for="1" value="S. FRAHM" />
+          <attvalue for="2" value="2.0948905109489053" />
           <attvalue for="3" value="R" />
           <attvalue for="4" value="red" />
         </attvalues>
